@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nintex"
+    id="id-d5eb17f3cedfe1f01496e5aeaab2636f"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="d5eb17f3cedfe1f01496e5aeaab2636f"/>
+</archimate:BusinessActor>

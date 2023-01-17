@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="module Documentenuitvoer 5.3"
+    id="id-e95c262c-78c7-48b9-90bc-74530a9f992c"
+    documentation="Documentatie pakketversie--->&#xA;Documencreatie oplossing voor Centric applicaties&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="e95c262c-78c7-48b9-90bc-74530a9f992c"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="5.3"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

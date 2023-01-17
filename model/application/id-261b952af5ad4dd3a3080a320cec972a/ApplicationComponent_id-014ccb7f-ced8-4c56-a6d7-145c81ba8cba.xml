@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit XO"
+    id="id-014ccb7f-ced8-4c56-a6d7-145c81ba8cba"
+    documentation="Squit XO is software voor Vergunningverlening, toezicht en handhaving (VTH). Squit XO integreert alle bestaande vergunning- en handhavingzaken in één modern zaaksysteem. Dus zowel vergunningen, beschikkingen en meldingen, als toezicht en handhaving, maar ook klachten en meldingen en bezwaar en beroep zijn in dit systeem samengebracht.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="014ccb7f-ced8-4c56-a6d7-145c81ba8cba"/>
+  <properties
+      key="URL"
+      value="http://www.roxit.nl/producten/squit-suite/squit-xo/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

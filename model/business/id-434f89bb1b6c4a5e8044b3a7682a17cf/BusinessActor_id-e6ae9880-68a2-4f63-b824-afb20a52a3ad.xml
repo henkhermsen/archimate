@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open-T"
+    id="id-e6ae9880-68a2-4f63-b824-afb20a52a3ad">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="e6ae9880-68a2-4f63-b824-afb20a52a3ad"/>
+  <properties
+      key="URL"
+      value="https://www.open-t.nl"/>
+</archimate:BusinessActor>

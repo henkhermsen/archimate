@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedBGT 4.4"
+    id="id-6431bc0e-79bd-45aa-ad1a-a8ddc3934dcc"
+    documentation="Documentatie pakketversie--->NedBGT bestaat uit de volgende (optionele) componenten:&#xA;-NedGeodataWarehouse (NGdW)&#xA;-GEOCAD&#xA;-IGOS&#xA;-TopoCAD&#xA;-NedInwinning&#xA;-Survey Interface&#xA;&#xA;NedBGT loopt synchroon met de versie van NGdW.&#xA;&#xA;NedBGT is de Cadac totaaloplossing voor het BGT vraagstuk. Deze software-oplossing helpt u uw BGT-bestanden eenvoudig, gebruiksvriendelijk en zoveel mogelijk geautomatiseerd op te bouwen en te beheren, waarbij steeds een uitstekende kwaliteit wordt behouden.&#xD;&#xA;Cadac heeft haar oplossing gebaseerd op NedGeodataWarehouse (NGdW) en CAD software (GEOCAD, IGOS en TopoCAD). Hiermee kan de objectengeometrie van verschillende informatiemodellen geïntegreerd bijgehouden worden. In het BGT bestand kan zo ook de geometrie voor de BAG en WOZ vastgelegd worden. Eenmalig inwinnen, meervoudig gebruik wordt hiermee mogelijk gemaakt. Met NedBGT bent u dus in staat om binnen uw organisatie een centrale regie op alle geometrie te organiseren.&#xD;&#xA;Met de kenmerken van de NedBGT oplossing worden zowel de zelfmetende gemeenten als de afnemende gemeenten voorzien van een adequate oplossing.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="6431bc0e-79bd-45aa-ad1a-a8ddc3934dcc"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="4.4"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

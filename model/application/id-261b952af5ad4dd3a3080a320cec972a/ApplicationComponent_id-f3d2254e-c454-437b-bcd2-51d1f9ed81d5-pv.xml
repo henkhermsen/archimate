@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project actueel"
+    id="id-f3d2254e-c454-437b-bcd2-51d1f9ed81d5-pv">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="f3d2254e-c454-437b-bcd2-51d1f9ed81d5-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="actueel"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

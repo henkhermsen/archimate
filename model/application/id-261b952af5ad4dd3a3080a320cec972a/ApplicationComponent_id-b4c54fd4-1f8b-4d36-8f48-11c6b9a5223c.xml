@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedBrowser 7.6"
+    id="id-b4c54fd4-1f8b-4d36-8f48-11c6b9a5223c"
+    documentation="Documentatie pakketversie--->NedBrowser 7.6 is voor u als bestaande NedBrowser klant beschikbaar en is te downloaden via het Helpdesk Portaal. In deze nieuwe NedBrowser versie zijn veel vernieuwingen en verbeteringen doorgevoerd.&#xA;&#xA;Let op: Voor het gebruik van de CycloMedia StreetSmart koppeling is vanaf versie 7.6 een licentie nodig. Neem contact met ons op voor meer informatie.&#xA;&#xA;Belangrijke features van NedBrowser 7.6:&#xA;- Vastleggen AVG gebruiker autorisatie (grondslag en reden van bevraging)&#xA;- WFS redlining (o.a. NedGlobe terugmeldingen muteren vanuit NedBrowser)&#xA;- Switchen tussen gebruikersgroepen&#xA;- Switchen tussen ondergrondlagen&#xA;- Lostrekken lagenmenu- en zoekresultaat-venster naar tweede beeldscherm&#xA;- StreetSmart: Oblieks ook op plaatsen waar geen panorama’s zijn. Meten is standaard functionaliteit.&#xA;NedBrowser is een webapplicatie voor het ontsluiten van geo-data via intranet. Het product onderscheid zich van vergelijkbare applicaties door de flexibele beheeromgeving waarmee op eenvoudige manier het uiterlijk en de inhoud van de te verstrekken informatie aan de wensen van verschillende gebruikersgroepen is aan te passen. Daarnaast beschikt NedBrowser over de mogelijkheid om zelf verschillende datasets uit verschillende bronsystemen te koppelen en presenteren. In de beheer omgeving worden de koppelingen gelegd met het NedMagazijn en eventuele andere (externe) dataleveranciers.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="b4c54fd4-1f8b-4d36-8f48-11c6b9a5223c"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="7.6"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

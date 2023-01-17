@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vanad"
+    id="id-79de123299c86382f89cc832c754ada7"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="79de123299c86382f89cc832c754ada7"/>
+</archimate:BusinessActor>

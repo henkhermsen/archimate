@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DocuDistri Uitgifte 2022"
+    id="id-49fa6159-0d1b-4a66-a050-536525668b9e-pv"
+    documentation="DocuDistri Uitgifte ">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="49fa6159-0d1b-4a66-a050-536525668b9e-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="DocuDistri Uitgifte"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

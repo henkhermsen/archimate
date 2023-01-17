@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inlichtingenbureau"
+    id="id-c20b74a50711ca01606eb5919bb13a2b"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c20b74a50711ca01606eb5919bb13a2b"/>
+</archimate:BusinessActor>

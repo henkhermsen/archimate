@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GwwBestek"
+    id="id-e774b147-7430-4ebb-a8fc-169b191773d7">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="e774b147-7430-4ebb-a8fc-169b191773d7"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

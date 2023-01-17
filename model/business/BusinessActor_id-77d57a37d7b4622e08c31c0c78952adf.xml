@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeente Venlo"
+    id="id-77d57a37d7b4622e08c31c0c78952adf"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="77d57a37d7b4622e08c31c0c78952adf"/>
+</archimate:BusinessActor>

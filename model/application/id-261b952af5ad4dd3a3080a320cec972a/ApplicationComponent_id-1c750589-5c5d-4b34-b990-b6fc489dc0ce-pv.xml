@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unexus Omnichannel Contact Center 2022"
+    id="id-1c750589-5c5d-4b34-b990-b6fc489dc0ce-pv"
+    documentation="Unexus Omnichannel Contact Center">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="1c750589-5c5d-4b34-b990-b6fc489dc0ce-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="Unexus Omnichannel Contact Center"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

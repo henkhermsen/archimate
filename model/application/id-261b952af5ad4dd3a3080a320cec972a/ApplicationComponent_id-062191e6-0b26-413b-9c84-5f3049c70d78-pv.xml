@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gisib versie 2.3.40"
+    id="id-062191e6-0b26-413b-9c84-5f3049c70d78-pv"
+    documentation="&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="062191e6-0b26-413b-9c84-5f3049c70d78-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="versie 2.3.40"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

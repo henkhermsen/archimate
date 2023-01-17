@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOPdesk"
+    id="id-f4fa81f2-cec3-4f35-89a4-c05612d8721a"
+    documentation="Software en consultancy.&#xA;&#xA;&#xA;TOPdesk helpt uw dienstverlening verbeteren. Of het nu gaat om uw IT-afdeling, Facility Management, of e-HRM. Met onze gebruiksvriendelijke standard service management software, ervaren consultants en deskundige support-afdeling hebben wij altijd een oplossing. Ervaar zelf hoe simpel samenwerken kan zijn.&#xA;&#xA;&#xA;TOPdesk is de drijvende kracht achter talloze bedrijven. Dagelijks vertrouwen miljoenen veeleisende gebruikers in 45 landen op TOPdesk. Onze beproefde software maakt efficiënt en geordend werken bereikbaar. Onze missie is de dienstverlening van uw organisatie zo goed mogelijk te ondersteunen. En omdat wij als het goed gaat niet opvallen, kent u ons wellicht nog niet. Toch is het tijd om dit publieke geheim naar buiten te brengen. Kortom: ontdek TOPdesk en behoor ook tot de beste servicedesks!                                                                                                                                                                                                                                              &#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="f4fa81f2-cec3-4f35-89a4-c05612d8721a"/>
+  <properties
+      key="URL"
+      value="www.topdesk.nl"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

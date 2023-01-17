@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solviteers"
+    id="id-ed885c41-7e40-4578-8be5-224d4d515d26">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ed885c41-7e40-4578-8be5-224d4d515d26"/>
+  <properties
+      key="URL"
+      value="https://www.solviteerssoftware.nl/"/>
+</archimate:BusinessActor>

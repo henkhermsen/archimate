@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impactive"
+    id="id-cafe9fb2f977ea78d5b524f930b030cb"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="cafe9fb2f977ea78d5b524f930b030cb"/>
+</archimate:BusinessActor>

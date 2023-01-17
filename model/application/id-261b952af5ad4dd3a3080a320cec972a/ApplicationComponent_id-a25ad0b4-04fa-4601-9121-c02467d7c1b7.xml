@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business intelligence"
+    id="id-a25ad0b4-04fa-4601-9121-c02467d7c1b7">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="a25ad0b4-04fa-4601-9121-c02467d7c1b7"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

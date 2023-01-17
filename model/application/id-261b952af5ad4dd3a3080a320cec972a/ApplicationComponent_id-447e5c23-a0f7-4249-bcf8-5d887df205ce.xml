@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable-U 2Orchestrate"
+    id="id-447e5c23-a0f7-4249-bcf8-5d887df205ce"
+    documentation="Enable-U 2Orchestrate ontvangt berichten en bezorgt ze in het juiste formaat (eventueel na transformatie) op het juiste moment via de juiste route (bijv. eerst langs een zakensysteem) bij de juiste applicatie. Op deze manier ontstaat een grote mate aan flexibiliteit in de in met velerlei systemen, bestandsformaten en transportprotocollen. De geboden oplossing integreert makkelijk met allerlei andere gemeentelijke applicaties en databases. Enable-U 2Orchestrate bevat een StUF koppelvlak en een aantal standaard gemeentelijke zaakprocessen die snel en eenvoudig te implementeren zijn. Enable-U 2Orchestrate loopt voorop als het gaat om de ondersteuning van nieuwe standaarden. Dit maakt Enable-U 2Orchestrate een veilige en toekomst vaste investering. Enable-U 2Orchestrate stelt gemeenten in staat om digitale dienstverlening mogelijk te maken, waarbij veel applicatiekoppelingen nodig zijn. Het is de perfecte invulling van de gemeentelijke service bus (ESB, Broker) functionaliteit. Ook het beveiligen van het berichten verkeer op basis van bv digikoppeling WUS protocol is mogelijk.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="447e5c23-a0f7-4249-bcf8-5d887df205ce"/>
+  <properties
+      key="URL"
+      value="http://www.enable-u.nl/oplossingen/enable-u-2orchestrate.htm"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

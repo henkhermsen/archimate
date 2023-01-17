@@ -1,0 +1,17 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gisib"
+    id="id-062191e6-0b26-413b-9c84-5f3049c70d78"
+    documentation="&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="062191e6-0b26-413b-9c84-5f3049c70d78"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

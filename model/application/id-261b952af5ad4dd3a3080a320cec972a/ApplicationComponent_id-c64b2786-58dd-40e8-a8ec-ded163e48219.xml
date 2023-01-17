@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharegate"
+    id="id-c64b2786-58dd-40e8-a8ec-ded163e48219">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c64b2786-58dd-40e8-a8ec-ded163e48219"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e-learning VenloLeert.venlo.nl actueel"
+    id="id-4e860c7f-ee46-4325-aaa5-4730fd8e84ce-pv"
+    documentation="e-learning VenloLeert.venlo.nl">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="4e860c7f-ee46-4325-aaa5-4730fd8e84ce-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="actueel"/>
+  <properties
+      key="Omschrijving"
+      value="e-learning VenloLeert.venlo.nl"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

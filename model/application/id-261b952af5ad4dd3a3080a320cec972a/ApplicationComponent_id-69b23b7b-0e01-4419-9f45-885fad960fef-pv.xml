@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exact Online 2022"
+    id="id-69b23b7b-0e01-4419-9f45-885fad960fef-pv"
+    documentation="Exact Online">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="69b23b7b-0e01-4419-9f45-885fad960fef-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="Exact Online"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

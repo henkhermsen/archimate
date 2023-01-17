@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wellnomics"
+    id="id-d1cae0e145c0b283bc86969cde760a3a"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="d1cae0e145c0b283bc86969cde760a3a"/>
+</archimate:BusinessActor>

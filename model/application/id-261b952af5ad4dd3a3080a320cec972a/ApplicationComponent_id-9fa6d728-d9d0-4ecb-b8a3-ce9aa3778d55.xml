@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centric Begraven"
+    id="id-9fa6d728-d9d0-4ecb-b8a3-ce9aa3778d55"
+    documentation="Snel een overzicht van uw begraafplaatsgegevens? En altijd up-to-date. Dat kan met Centric Begraven. Hét systeem voor begraafplaatsen en crematoria. Of het nu gaat om het achterhalen van adresgegevens, het bijhouden van correspondentie of het maken van facturen. U werkt altijd met de juiste en meest actuele gegevens.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="9fa6d728-d9d0-4ecb-b8a3-ce9aa3778d55"/>
+  <properties
+      key="URL"
+      value="http://www.centric.eu/NL/Default/Branches/Lokale-overheid/Oplossingen/Beleidsvelden/Ruimtelijke-omgeving/Suite4Begraven/Key2Begraven.aspx"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

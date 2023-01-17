@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CiVision Gemeentelijke Servicebus"
+    id="id-ad0c6b36-1ace-4e39-b60f-aba06106fd93"
+    documentation="CiVision Gemeentelijke Servicebus is onderdeel van pakket Makelaarsuite.&#xA;De actuele versienummers zijn daar opgenomen.&#xA;CiVision Gemeentelijke Servicebus vervult de rol van gemeentelijke servicebus zoals gedefinieerd in de Gemeentelijke Model Architectuur (GEMMA). Deze basisvoorziening biedt de noodzakelijke functionaliteit om applicaties op een verantwoorde manier onderling gegevens uit te wisselen. Dit kunnen gegevensstromen zijn, maar ook verzoeken tot het uitvoeren van een dienst (service). CiVision Gemeentelijke Servicebus richt zich hierbij op de technische koppelvlakken, bestaande uit berichtstructuren en communicatieprotocollen. &#xA;Indien zender en ontvanger niet dezelfde &amp;#039;taal&amp;#039; spreken wordt ook gezorgd voor transformaties. Applicaties die via CiVision Gemeentelijke Servicebus communiceren met andere applicaties hoeven dit niet meer zelf te implementeren.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="ad0c6b36-1ace-4e39-b60f-aba06106fd93"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl/beleidsterreinen/informatievoorziening/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadac Group"
+    id="id-8e1e8566-f8b0-44c6-965c-70f4ff6dc535">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="8e1e8566-f8b0-44c6-965c-70f4ff6dc535"/>
+  <properties
+      key="URL"
+      value="https://www.cadac.com/industrieen/overheid/"/>
+</archimate:BusinessActor>

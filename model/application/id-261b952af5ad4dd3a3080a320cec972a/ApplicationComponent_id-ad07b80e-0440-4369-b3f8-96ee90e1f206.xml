@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ibis"
+    id="id-ad07b80e-0440-4369-b3f8-96ee90e1f206">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="ad07b80e-0440-4369-b3f8-96ee90e1f206"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

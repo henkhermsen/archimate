@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TON (Transitie Oude Nummers) 2022"
+    id="id-74d2f23b-c8f3-45d4-b6a5-12de6c305989-pv"
+    documentation="TON (Transitie Oude Nummers)">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="74d2f23b-c8f3-45d4-b6a5-12de6c305989-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="TON (Transitie Oude Nummers)"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

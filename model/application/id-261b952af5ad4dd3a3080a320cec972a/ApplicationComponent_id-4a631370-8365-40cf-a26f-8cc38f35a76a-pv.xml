@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adobe acrobat pro 2022"
+    id="id-4a631370-8365-40cf-a26f-8cc38f35a76a-pv"
+    documentation="adobe acrobat pro">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="4a631370-8365-40cf-a26f-8cc38f35a76a-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="adobe acrobat pro"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

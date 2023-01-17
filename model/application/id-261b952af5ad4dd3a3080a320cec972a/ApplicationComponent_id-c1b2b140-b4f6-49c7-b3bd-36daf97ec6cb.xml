@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Squit2Go"
+    id="id-c1b2b140-b4f6-49c7-b3bd-36daf97ec6cb"
+    documentation="Squit 2Go is een oplossing voor (offline) mobiel toezicht en is geïntegreerd met Squit XO.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c1b2b140-b4f6-49c7-b3bd-36daf97ec6cb"/>
+  <properties
+      key="URL"
+      value="http://www.roxit.nl/producten/squit-suite/squit-2go/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

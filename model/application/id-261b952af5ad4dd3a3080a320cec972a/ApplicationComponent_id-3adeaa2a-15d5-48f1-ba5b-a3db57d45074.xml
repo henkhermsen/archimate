@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kofax"
+    id="id-3adeaa2a-15d5-48f1-ba5b-a3db57d45074">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="3adeaa2a-15d5-48f1-ba5b-a3db57d45074"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

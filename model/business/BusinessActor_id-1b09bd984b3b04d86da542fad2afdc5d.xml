@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico"
+    id="id-1b09bd984b3b04d86da542fad2afdc5d"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="1b09bd984b3b04d86da542fad2afdc5d"/>
+</archimate:BusinessActor>

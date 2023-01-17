@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Raet"
+    id="id-c4ac63c9-dcb0-4688-bf13-df983f459027">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c4ac63c9-dcb0-4688-bf13-df983f459027"/>
+  <properties
+      key="URL"
+      value="www.raet.nl"/>
+</archimate:BusinessActor>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GFS/EnterpriseOne 9.0"
+    id="id-21e61197-843e-4c06-aef4-ed54ea380e1f"
+    documentation="Documentatie pakketversie--->&#xA;Het Geïntegreerd Financieel systeem GFS/EnterpriseOne van Capgemini is ontwikkeld om aan de complexe vraag van lokale overheden in Nederland te beantwoorden. De basis wordt gevormd door de wereldwijd bekende Oracle JD Edwards software, aangevuld met door Capgemini ontwikkelde GFS modules en functionaliteiten. Onze direct uit te leveren oplossing is flexibel, compleet en bij uitstek geschikt voor lokale overheden.&#xD;&#xA;&#xD;&#xA;GFS/EnterpriseOne stelt lokale overheden in staat om hun financiële administratie te voeren en hierbij volledig aan te sluiten op het stelsel van basisregistraties. Daarnaast zijn er specifieke modules voor lokale overheden ontwikkeld door Capgemini, denk hierbij aan Tijdverantwoording, Contractmanagement, Bankverwerking, Subsidiebeheer en de afhandeling van Facturen in combinatie met workflow.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="21e61197-843e-4c06-aef4-ed54ea380e1f"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="9.0"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

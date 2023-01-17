@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CiVision Makelaar Gegevensmagazijn"
+    id="id-ab584eff-68be-4748-845f-41870e3d2a6a"
+    documentation="CiVision Makelaar Gegevensmagazijn is onderdeel van pakket Makelaarsuite. De actuele versienummers zijn daar opgenomen.&#xA;CiVision Makelaar Gegevensmagazijn zorgt ervoor dat de gegevens voor personen, bedrijven en zaken centraal worden bewaard en beschikbaar zijn voor raadplegingen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="ab584eff-68be-4748-845f-41870e3d2a6a"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl/beleidsterreinen/informatievoorziening/gegevenslogistiek/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

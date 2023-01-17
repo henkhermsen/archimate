@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engage Process Suite"
+    id="id-3f458161b7e4d71a044b34c3f4d095bf"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="3f458161b7e4d71a044b34c3f4d095bf"/>
+</archimate:BusinessActor>

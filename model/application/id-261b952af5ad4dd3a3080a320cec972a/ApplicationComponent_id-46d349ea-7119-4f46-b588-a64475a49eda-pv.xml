@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="archief.venlo.nl actueel"
+    id="id-46d349ea-7119-4f46-b588-a64475a49eda-pv"
+    documentation="archief.venlo.nl">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="46d349ea-7119-4f46-b588-a64475a49eda-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="actueel"/>
+  <properties
+      key="Omschrijving"
+      value="archief.venlo.nl"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

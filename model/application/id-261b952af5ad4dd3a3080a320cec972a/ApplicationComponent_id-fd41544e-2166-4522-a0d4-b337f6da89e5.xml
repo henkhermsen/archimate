@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SubsidieVolgSysteem (SVS)"
+    id="id-fd41544e-2166-4522-a0d4-b337f6da89e5">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="fd41544e-2166-4522-a0d4-b337f6da89e5"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

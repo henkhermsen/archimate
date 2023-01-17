@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-depot Open-T"
+    id="id-c719a1ac-16a0-4c0a-b363-9f46530ca038"
+    documentation="E-depot Open-T">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c719a1ac-16a0-4c0a-b363-9f46530ca038"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="E-depot Open-T"/>
+</archimate:ApplicationComponent>

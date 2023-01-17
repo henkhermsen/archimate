@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT NML"
+    id="id-61a109f2-6091-4c6c-9802-6ca4fd294ae0">
+  <properties
+      key="SWC type"
+      value="Samenwerkingsverband"/>
+  <properties
+      key="Object ID"
+      value="61a109f2-6091-4c6c-9802-6ca4fd294ae0"/>
+  <properties
+      key="Type"
+      value="Bedrijfsvoeringsorganisatie"/>
+</archimate:BusinessActor>

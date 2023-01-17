@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archi"
+    id="id-b7f52430-14d5-4606-b3e8-b9623806cee4"
+    documentation="Open source tool voor architectuurmodellering in ArchiMate&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="b7f52430-14d5-4606-b3e8-b9623806cee4"/>
+  <properties
+      key="URL"
+      value="https://www.archimatetool.com/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

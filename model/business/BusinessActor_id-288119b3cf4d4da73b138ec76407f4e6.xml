@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dataedo"
+    id="id-288119b3cf4d4da73b138ec76407f4e6"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="288119b3cf4d4da73b138ec76407f4e6"/>
+</archimate:BusinessActor>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Power BI 19"
+    id="id-2af2cc97-c803-43c0-9a62-b21571b95635-pv"
+    documentation="Microsoft Power BI is een interactieve tool voor het visualiseren van data, ontwikkeld en uitgegeven door het Amerikaanse softwarebedrijf Microsoft. Het doel is om business intelligence beschikbaar te maken voor de eindgebruiker">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="2af2cc97-c803-43c0-9a62-b21571b95635-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="19"/>
+  <properties
+      key="Omschrijving"
+      value="Microsoft Power BI is een interactieve tool voor het visualiseren van data, ontwikkeld en uitgegeven door het Amerikaanse softwarebedrijf Microsoft. Het doel is om business intelligence beschikbaar te maken voor de eindgebruiker"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

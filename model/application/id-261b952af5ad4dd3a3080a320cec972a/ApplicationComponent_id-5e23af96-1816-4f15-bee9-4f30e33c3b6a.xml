@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC-Afspraken 4.0"
+    id="id-5e23af96-1816-4f15-bee9-4f30e33c3b6a"
+    documentation="Documentatie pakketversie--->&#xA;Afspraken, reserveren en bezoekersregistratie in één applicatie.&#xD;&#xA;Met ons afsprakensysteem JCC-Afspraken heeft u altijd grip op uw bezoekersstroom. Of u nu gedeeltelijk of volledig op afspraak werkt, voor één afdeling of gemeentebreed. Uw burger kan plaatsonafhankelijk, op elk device, via het online afsprakenportaal een afspraak maken, wijzigen en annuleren. Voor de burger die liever telefonisch contact opneemt, kan uw medewerker ook snel en eenvoudig een afspraak maken, wijzigen en annuleren. JCC-Afspraken gaat verder dan afspraken met burgers. Naast het vastleggen van overleggen met collega’s en externen, reserveert u ook ruimtes inclusief de benodigdheden. Iedere bezoeker met een afspraak wordt op die manier geregistreerd.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="5e23af96-1816-4f15-bee9-4f30e33c3b6a"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="4.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

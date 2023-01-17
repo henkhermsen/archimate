@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aareon Treasury"
+    id="id-730d5e9e-7fef-4999-9669-524fb2d76130">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="730d5e9e-7fef-4999-9669-524fb2d76130"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"/>
+</archimate:ApplicationComponent>

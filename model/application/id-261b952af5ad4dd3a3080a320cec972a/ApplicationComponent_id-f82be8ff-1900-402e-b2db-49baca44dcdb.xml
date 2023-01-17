@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DocuDistri Uitgifte"
+    id="id-f82be8ff-1900-402e-b2db-49baca44dcdb"
+    documentation="DocuDistri Uitgifte ">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="f82be8ff-1900-402e-b2db-49baca44dcdb"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="DocuDistri Uitgifte"/>
+</archimate:ApplicationComponent>

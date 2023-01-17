@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WIZportaal WIZportaal versie 3.1"
+    id="id-746736a5-ef04-403c-bfc2-2c140a80188b"
+    documentation="Documentatie pakketversie--->De applicatie voor de decentralisaties en sociale wijkteams. WIZportaal legt de verbinding tussen alle betrokken partijen binnen het domein van werk, inkomen en zorg. De professional heeft in WIZportaal een integraal klantbeeld, dankzij de ontsluiting van diverse bronnen in het sociaal domein. WIZportaal heeft een geïntegreerd plan dat gebaseerd kan worden op de ZRM of op elk ander voorkomend instrument. Vanuit het grafisch dashboard wordt door de professional de voortgang van het plan bewaakt. Door middel van notities en het koppelen van externe documenten wordt per burger en/of per huishouden één centraal dossier gevormd. WIZportaal is bovendien webbased en kan hierdoor uitstekend als mobiele toepassing worden ingezet, bijvoorbeeld op tablets. Bewezen oplossing WIZportaal wordt al sinds 2012 in de praktijk ingezet door gemeenten, sociale wijkteams en hun ketenpartners. Momenteel werken reeds 35 gemeenten met WIZportaal, waaronder Eindhoven, Groningen, Maastricht, Sudwest Fryslan, Nijmegen en Lelystad. Binnen deze gemeenten werken al honderden professionals dagelijks met WIZportaal aan de keukentafel. WIZportaal is een beproefde oplossing die zijn sporen in de praktijk al ruimschoots heeft verdiend. Direct inzetbaar, klaar voor de toekomst WIZportaal is uitstekend geschikt voor de inzet in pilots. Binnen enkele weken kan ook de pilot in uw gemeente ondersteund worden met WIZportaal, tegen lage kosten en aantrekkelijke voorwaarden. En u kiest dan niet alleen voor een applicatie voor de korte termijn, maar ook voor een oplossing die met u mee groeit. Wij ontwikkelen WIZportaal intensief door aan de hand van de input van onze klanten, landelijke publicaties (waaronder het VISD-rapport) en vanuit onze eigen visie op de decentralisaties. &#xA;&#xA;De gemeente vervult sinds 1 januari 2015 de centrale regierol in het bieden van ondersteuning aan kwetsbare groepen binnen de samenleving. Deze regierol vergt een andere manier van werken waarin intensieve samenwerking tussen alle betrokken partijen in de keten (gemeenten, maatschappelijk werk, zorg- en welzijn, werkgevers etc) centraal staat.&#xD;&#xA;&#xD;&#xA;Deze intensieve samenwerking stelt ook andere eisen aan de automatisering. Solviteers heeft hiervoor een platform ontwikkeld dat alle betrokken partijen optimaal ondersteunt en met elkaar verbindt. WIZportaal is een moderne, nieuwe softwareoplossing die op eenvoudige wijze interactie mogelijk maakt tussen cliënt, consulent en ketenpartners. Een oplossing die de zelfredzaamheid van de burger stimuleert en op het juiste moment in contact brengt met de juiste interventies. Een applicatie van, met en voor burgers met enkelvoudige en meervoudige problematiek, zowel voor werk als (jeugd) zorg waarmee een integraal klantbeeld gevormd kan worden.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="746736a5-ef04-403c-bfc2-2c140a80188b"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="WIZportaal versie 3.1"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

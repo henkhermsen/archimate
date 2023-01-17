@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centric Objectregistratie / (Key2)WOZ 1.9"
+    id="id-3e2b30f8-b3f1-4d70-b648-e8c81335ebc8"
+    documentation="Documentatie pakketversie--->WOZ-informatie uitwisselen met LV-WOZ o.b.v. StUF-WOZ 03.12, incl. raadplegen WOZ op basis van de WOZ-objectenkaart (geschikt voot alle Key2Belastingen en GISVG-Belastingen klanten).&#xA;Centric Objectregistratie / (Key2)WOZ is een applicatie voor Integraal WOZ-bronbeheer en gegevenlevering aan de LV WOZ.&#xD;&#xA;Verder ondersteunt de applicatie LV WOZ Afnemersfunctionaliteit t.b.v. waterschapbelastingkantoren en ondersteunt de applicatie de confrontatie van uw WOZ bron bestand met de LV WOZ en uw Belastingproces. Waar nodig wordt vervolgebns gecorrigeerd.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="3e2b30f8-b3f1-4d70-b648-e8c81335ebc8"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.9"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

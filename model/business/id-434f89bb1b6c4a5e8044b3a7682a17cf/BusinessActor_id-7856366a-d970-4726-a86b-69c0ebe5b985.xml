@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verint Nederland"
+    id="id-7856366a-d970-4726-a86b-69c0ebe5b985">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="7856366a-d970-4726-a86b-69c0ebe5b985"/>
+  <properties
+      key="URL"
+      value="http://nl.kana.com"/>
+</archimate:BusinessActor>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite4Werk en Inkomen 2"
+    id="id-f7100358-3d0c-466a-9379-7472fa491c28"
+    documentation="Documentatie pakketversie--->&#xA;Suite4Werk en Inkomen biedt u dé oplossing om de bedrijfsvoering voor inkomensondersteuning en participatie efficiënt en effectief uit te voeren: &#xA;•&#x9;workflow: oog voor goede procesondersteuning&#xA;•&#x9;gegevensuitwisseling: koppelingen via landelijke standaarden&#xA;•&#x9;zaakgericht werken: verbetering van de dienstverlening aan burgers en documenten zaakgericht opslaan&#xA;•&#x9;veilige gegevensuitwisseling: privacy en aandacht voor informatiebeveiliging en autorisatie (AVG)&#xA;&#xA;Als onderdeel van Suite4Werk en Inkomen biedt Key2Participtie oplossingen om mensen naar werk te begeleiden. Onze oplossingen vertalen zich in:&#xA;•&#x9;Bredere mogelijkheden tot samenwerking voor werkbedrijven, werkgevers en externe partijen zoals het UWV&#xA;•&#x9;Uitwisseling van gegevens voor de uitvoering van de inburgering&#xA;•&#x9;Procesoptimalisatie door diagnoses te koppelen aan trajectadvies&#xA;Met deze oplossingen vergroot u de zelfredzaamheid van de burger en faciliteert u professionals in het beheer van hun caseload. &#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="f7100358-3d0c-466a-9379-7472fa491c28"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="2"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

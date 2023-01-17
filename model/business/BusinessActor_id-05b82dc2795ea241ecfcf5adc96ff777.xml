@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VConsyst"
+    id="id-05b82dc2795ea241ecfcf5adc96ff777"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="05b82dc2795ea241ecfcf5adc96ff777"/>
+</archimate:BusinessActor>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open-T"
+    id="id-c813257dba7025f8e8104ea3e4da43e8"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c813257dba7025f8e8104ea3e4da43e8"/>
+</archimate:BusinessActor>

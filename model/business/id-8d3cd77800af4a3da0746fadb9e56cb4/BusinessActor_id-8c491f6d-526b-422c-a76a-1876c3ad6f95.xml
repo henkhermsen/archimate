@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Belasting Samenwerking voor Gemeenten en Waterschappen (BsGW)"
+    id="id-8c491f6d-526b-422c-a76a-1876c3ad6f95">
+  <properties
+      key="SWC type"
+      value="Samenwerkingsverband"/>
+  <properties
+      key="Object ID"
+      value="8c491f6d-526b-422c-a76a-1876c3ad6f95"/>
+  <properties
+      key="Type"
+      value="Belastingsamenwerking"/>
+</archimate:BusinessActor>

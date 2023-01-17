@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ilionx"
+    id="id-89c5ab93-9acd-48b0-8943-5edcd637e689">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="89c5ab93-9acd-48b0-8943-5edcd637e689"/>
+  <properties
+      key="URL"
+      value="https://www.ilionx.com/markt/overheid/"/>
+</archimate:BusinessActor>

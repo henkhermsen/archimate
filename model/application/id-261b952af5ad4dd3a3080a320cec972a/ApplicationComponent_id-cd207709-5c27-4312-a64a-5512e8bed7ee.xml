@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGdW"
+    id="id-cd207709-5c27-4312-a64a-5512e8bed7ee"
+    documentation="NGdW is een ruimtelijke database gebouwd in Oracle. NGdW valideert, vormt en verzorgt de opslag van objecten die naast hun geometrie ook administratieve kenmerken bevatten. De objecten worden gevormd en gevalideerd op basis van informatiemodellen. Dit kunnen de landelijk vastgestelde modellen zijn (BGT, IMGeo, BAG, WOZ, Wkpb, etc.), maar de gebruiker kan ook eigen modellen inbrengen. Door middel van check-in/check-out procedures bewerkt u de bestanden in uw CAD systeem (GEOCAD, IGOS of TopoCAD).&#xD;&#xA;Voor een efficiënt beheerproces wordt al uw object- en lijngericht kaartmateriaal met NGdW centraal opgeslagen, zodat er maar één plek is in uw organisatie waar de datasets van het kaartmateriaal worden beheerd. Eenmalig inwinnen en meervoudig gebruik wordt hiermee mogelijk gemaakt.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="cd207709-5c27-4312-a64a-5512e8bed7ee"/>
+  <properties
+      key="URL"
+      value="https://www.cadac.com/nedgraphics/producten/ngdw/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

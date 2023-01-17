@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LVP"
+    id="id-bde85c812671059f9b3ab6034dcd227c"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="bde85c812671059f9b3ab6034dcd227c"/>
+</archimate:BusinessActor>

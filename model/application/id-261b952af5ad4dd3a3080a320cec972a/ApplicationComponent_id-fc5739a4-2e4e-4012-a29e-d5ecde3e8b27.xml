@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planon"
+    id="id-fc5739a4-2e4e-4012-a29e-d5ecde3e8b27">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="fc5739a4-2e4e-4012-a29e-d5ecde3e8b27"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

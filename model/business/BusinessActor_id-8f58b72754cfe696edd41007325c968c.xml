@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xlinesoft"
+    id="id-8f58b72754cfe696edd41007325c968c"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="8f58b72754cfe696edd41007325c968c"/>
+</archimate:BusinessActor>

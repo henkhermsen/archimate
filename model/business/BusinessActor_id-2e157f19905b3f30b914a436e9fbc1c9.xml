@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sharegate"
+    id="id-2e157f19905b3f30b914a436e9fbc1c9"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="2e157f19905b3f30b914a436e9fbc1c9"/>
+</archimate:BusinessActor>

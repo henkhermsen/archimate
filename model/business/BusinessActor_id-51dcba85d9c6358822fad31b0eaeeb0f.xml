@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ortec"
+    id="id-51dcba85d9c6358822fad31b0eaeeb0f"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="51dcba85d9c6358822fad31b0eaeeb0f"/>
+</archimate:BusinessActor>

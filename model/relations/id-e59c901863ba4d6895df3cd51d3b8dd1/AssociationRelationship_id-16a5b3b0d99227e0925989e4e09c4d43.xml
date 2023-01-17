@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft als intermediair"
+    id="id-16a5b3b0d99227e0925989e4e09c4d43">
+  <properties
+      key="Object ID"
+      value="16a5b3b0d99227e0925989e4e09c4d43"/>
+  <source
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-9ae8c9bf623c3a576ecc100f108b8940.xml#id-9ae8c9bf623c3a576ecc100f108b8940"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e8bf2ce3-c3e0-4f61-bb8e-4550f5ec939c.xml#id-e8bf2ce3-c3e0-4f61-bb8e-4550f5ec939c"/>
+</archimate:AssociationRelationship>

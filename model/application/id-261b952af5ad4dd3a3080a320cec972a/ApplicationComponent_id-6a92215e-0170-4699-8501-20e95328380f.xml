@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedGeoservices 3.3.6"
+    id="id-6a92215e-0170-4699-8501-20e95328380f"
+    documentation="Documentatie pakketversie--->Security patches&#xA;Diverse onderdelen (o.a. Apache, Python, Pillow, MapProxy en meer) zijn geüpgraded.&#xA;Met de applicatie NedGeoservices is het mogelijk om geo-informatie op een eenvoudige en gestandaardiseerde manier te distribueren en te publiceren. Hierbij wordt gebruik gemaakt van gestandaardiseerde webservices (WMS, WMTS en WFS) die door het Open Geospatial Consortsium (OGC) zijn vastgesteld. NedGeoservices bestaat uit de componenten ‘NedGeoservices Basis’ en ‘NedGeoservices Studio&amp;#039;. Met behulp van de basis component is geo-informatie, vanuit interne brondata, als webservices beschikbaar te stellen aan afnemende applicaties. De studio component maakt het mogelijk om geo-informatie uit webservices samen te stellen tot een kaart, en deze via een website te ontsluiten. &#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="6a92215e-0170-4699-8501-20e95328380f"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="3.3.6"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebIS Meet Algemeen"
+    id="id-aaec7f1d-80e1-4415-a231-f33dd430f7e4"
+    documentation="Documentatie pakketversie--->&#xA;Met behulp van WebIS Meet kunnen meetgegevens doorgegeven worden, gemonitord en verwerkt worden tot een heffing. Het stelt een waterschap of belastingkantoor in staat om het uitwisselen van data tussen het laboratorium, de meetbedrijven en hun adviesbureaus in zijn geheel te automatiseren.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="aaec7f1d-80e1-4415-a231-f33dd430f7e4"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="Algemeen"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+  <properties
+      key="Gebruik datum"
+      value="26-02-2019"/>
+</archimate:ApplicationComponent>

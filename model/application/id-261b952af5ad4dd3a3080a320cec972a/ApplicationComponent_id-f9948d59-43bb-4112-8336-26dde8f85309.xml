@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CityPermit"
+    id="id-f9948d59-43bb-4112-8336-26dde8f85309"
+    documentation="CityPermit is een parkeervergunningensysteem. CityPermit digitaliseert de uitgifte en het beheer van parkeervergunningen. Maak met CityPermit online parkeervergunningen aanvragen de gewoonste zaak van de wereld en laat burgers en bedrijven hun parkeerzaken automatisch via het internet regelen. Zowel de bezoekersregistratie als de betaling kan online plaatsvinden. Reduceer zo de administratie rondom vergunningaanvragen aanzienlijk. CityPermit bestaat uit:&#xA;Digitaal loket waarmee burgers en bedrijven online hun parkeerzaken regelen, inclusief de betaling. Van de vergunningaanvraag tot betaling, verstrekking en verlenging of het wijzigen en activeren van kentekens.&#xA;Mobiele Parkeerapplicatie waarmee burgers onder andere bezoekers aan- en afmelden, parkeertegoeden opwaarderen of toewijzen aan mantelzorgers via een smartphone applicatie.&#xA;Webbased BackOffice systeem waarin aanvragen worden verwerkt en geverifieerd, dat baliemedewerkers ondersteunt en leidinggevenden gebruiken als krachtige managementtool.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="f9948d59-43bb-4112-8336-26dde8f85309"/>
+  <properties
+      key="URL"
+      value="http://www.sigmax.nl/nl/content/6/7/18/citypermit.aspx"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

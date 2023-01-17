@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embrace"
+    id="id-70f66bb2-9337-4427-aa73-a61e09a7f57a">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="70f66bb2-9337-4427-aa73-a61e09a7f57a"/>
+  <properties
+      key="URL"
+      value="https://www.embracecloud.nl/"/>
+</archimate:BusinessActor>

@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WiSZ (overzicht managementinformatie W&amp;I)."
+    id="id-1af65a83-11d9-4d35-b0ba-07dbfe3dc239"
+    documentation="Met ons managementinformatiesysteem WiSZ beschikt u snel over actuele en accurate informatie over uw bedrijfsvoering. WiSZ koppelt namelijk verschillende bronnen aan elkaar, zoals een uitkeringssysteem, een financieel systeem en een personeelssysteem. WiSZ zet die informatie om in dezelfde ‘taal’. Vervolgens ontstaat er een logische samenhang en kunt u een eenvoudige vergelijking maken. Zo krijgt u één overzicht gebaseerd op de Balanced Score Card en kunt u analyseren en strategisch sturen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="1af65a83-11d9-4d35-b0ba-07dbfe3dc239"/>
+  <properties
+      key="URL"
+      value="https://www.stimulansz.nl/advies/managementinformatiesysteem-wisz/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

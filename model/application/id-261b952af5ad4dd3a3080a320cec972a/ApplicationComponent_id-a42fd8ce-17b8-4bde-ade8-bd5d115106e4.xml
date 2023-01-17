@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Media Monitor OBI4wan"
+    id="id-a42fd8ce-17b8-4bde-ade8-bd5d115106e4"
+    documentation="OBI4wan is een complete oplossing voor webcare en realtime monitoring van sociale media, nieuwssites, nieuws reacties, fora en blogs. Inbegrepen zijn o.a. live narrowcasting (dashboards live delen of presenteren op een groot scherm), automatische alerts en nieuwsbrief functie &amp;amp; publiceren en werken vanuit één centrale contentkalender.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="a42fd8ce-17b8-4bde-ade8-bd5d115106e4"/>
+  <properties
+      key="URL"
+      value="https://www.howaboutyou.nl/producten/#onlinemedia"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

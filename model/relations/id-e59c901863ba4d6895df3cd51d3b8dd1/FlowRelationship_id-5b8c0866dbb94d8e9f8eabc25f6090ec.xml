@@ -1,0 +1,35 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="intern"
+    id="id-5b8c0866dbb94d8e9f8eabc25f6090ec">
+  <properties
+      key="SWC type"
+      value="Koppeling"/>
+  <properties
+      key="SWC subtype"
+      value="Binnengemeentelijk"/>
+  <properties
+      key="Status"
+      value="In productie"/>
+  <properties
+      key="Transportprotocol"/>
+  <properties
+      key="Type"
+      value="norm"/>
+  <properties
+      key="Voldoet aan standaardversie ID"
+      value="c31412c1-8db0-11e3-67ab-0050568a6153"/>
+  <properties
+      key="Voldoet aan standaardversie"
+      value="StUF BG 3.10"/>
+  <properties
+      key="Object ID"
+      value="5b8c0866dbb94d8e9f8eabc25f6090ec"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-327171f1-d604-4551-8fb2-ffaa744fc01e.xml#id-327171f1-d604-4551-8fb2-ffaa744fc01e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5e0b462c-8b62-4a39-b1fc-846ea0e6d00d.xml#id-5e0b462c-8b62-4a39-b1fc-846ea0e6d00d"/>
+</archimate:FlowRelationship>

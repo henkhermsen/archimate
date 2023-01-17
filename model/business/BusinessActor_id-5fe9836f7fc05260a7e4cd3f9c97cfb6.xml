@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gisib BV"
+    id="id-5fe9836f7fc05260a7e4cd3f9c97cfb6"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="5fe9836f7fc05260a7e4cd3f9c97cfb6"/>
+</archimate:BusinessActor>

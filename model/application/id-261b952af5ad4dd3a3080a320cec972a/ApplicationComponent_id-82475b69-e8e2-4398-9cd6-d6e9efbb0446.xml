@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ControlPoint"
+    id="id-82475b69-e8e2-4398-9cd6-d6e9efbb0446">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="82475b69-e8e2-4398-9cd6-d6e9efbb0446"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

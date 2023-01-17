@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="workpace"
+    id="id-8da067e6-1fc7-4188-954c-6380cdee5b53"
+    documentation="ergonomische software">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="8da067e6-1fc7-4188-954c-6380cdee5b53"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="ergonomische software"/>
+</archimate:ApplicationComponent>

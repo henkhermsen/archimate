@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iam_3_venlo"
+    id="id-b87acb01-c6a0-4f10-b3b8-894fa1b4217a"
+    documentation="Identity en Accessmanagement">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="b87acb01-c6a0-4f10-b3b8-894fa1b4217a"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Identity en Accessmanagement"/>
+</archimate:ApplicationComponent>

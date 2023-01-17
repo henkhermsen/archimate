@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico internetkassa"
+    id="id-41d3f3a4-bab5-4b53-995a-0235dffaec6f"
+    documentation="Ingenico internetkassa ">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="41d3f3a4-bab5-4b53-995a-0235dffaec6f"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Ingenico internetkassa"/>
+</archimate:ApplicationComponent>

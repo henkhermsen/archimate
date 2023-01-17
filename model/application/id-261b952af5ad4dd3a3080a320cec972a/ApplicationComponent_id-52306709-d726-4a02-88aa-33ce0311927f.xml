@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedGeomagazijn 3.2"
+    id="id-52306709-d726-4a02-88aa-33ce0311927f"
+    documentation="Documentatie pakketversie--->Na versie 3.2 zal NedGeomagazijn onderdeel zijn van NedMagazijn (deel Kernregistraties).&#xA;&#xA;NedGeomagazijn 3.2 bevat de volgende functionele verbeteringen:&#xA;- Verbeteringen diverse laadacties &#xA;- Specifieke verbeteringen aan: Themamodules BRK, Wkpb, BGT/IMGeo en GBI6 databank&#xA;&#xA;&#xA;NedGeomagazijn is een gegevensmagazijn, bedoeld om geometrische en administratieve gegevens uit bronsystemen op een gecontroleerde manier op te halen, op te slaan, bij te houden en aan te bieden aan andere systemen en processen. Hierbij moet worden gedacht aan bijv. een GIS viewer als NedBrowser. De informatie kan op diverse manier worden verkregen. Daar waar een standaard koppelvlak beschikbaar is, wordt gebruik gemaakt van StUF technologie. Voor die registraties waarvoor geen standaard koppelvlak beschikbaar is, wordt gewerkt met laadacties. NedGeomagazijn is in breder perspectief onderdeel van het MidOffice (NORA, Nederlandse Overheid Referentie Architectuur) concept en is RSGB compliant.&#xD;&#xA;NedGeomagazijn is overgegaan in NedMagazijn: https://www.softwarecatalogus.nl/pakket/nedmagazijn-basis&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="52306709-d726-4a02-88aa-33ce0311927f"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="3.2"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Renewi"
+    id="id-2e5c167f58d77fb1c6ffaf52da3a7b66"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="2e5c167f58d77fb1c6ffaf52da3a7b66"/>
+</archimate:BusinessActor>

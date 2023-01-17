@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trias"
+    id="id-e489b5869254738eb5f45ff77a252b49"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="e489b5869254738eb5f45ff77a252b49"/>
+</archimate:BusinessActor>

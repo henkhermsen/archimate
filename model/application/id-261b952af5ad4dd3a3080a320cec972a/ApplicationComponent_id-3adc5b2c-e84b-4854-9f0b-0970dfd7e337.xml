@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC-Betalen 1.12"
+    id="id-3adc5b2c-e84b-4854-9f0b-0970dfd7e337"
+    documentation="Documentatie pakketversie--->&#xA;Snel, veilig en eenvoudig betalen, dat is de kracht van JCC-Betalen! Eén betaalsysteem dat inzetbaar is voor meerdere afdelingen waardoor alle betalingsgegevens centraal inzichtelijk zijn. Gebruiksvriendelijkheid en een veilig systeem staan op nummer 1. In één muisklik is de betaling voltooid en verwerkt in uw administratie. Zo bespaart u tijd en geld. Verder bent u met onze betaalautomaten verzekerd van de moderne betaalmogelijkheden, zoals retourpinnen en contactloos betalen. Heeft u al betaalautomaten? Geen enkel probleem, JCC-Betalen koppelt met de meeste gangbare betaalautomaten.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="3adc5b2c-e84b-4854-9f0b-0970dfd7e337"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.12"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheervisie"
+    id="id-eaa8e8e2-439a-4a91-99cd-d9adb2ca67ca">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="eaa8e8e2-439a-4a91-99cd-d9adb2ca67ca"/>
+  <properties
+      key="URL"
+      value="https://www.beheervisie.nl"/>
+</archimate:BusinessActor>

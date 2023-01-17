@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planon"
+    id="id-87db5d32e289b56f6b9cabaf604a41fa"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="87db5d32e289b56f6b9cabaf604a41fa"/>
+</archimate:BusinessActor>

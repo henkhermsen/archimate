@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Datadistributie"
+    id="id-c8cef201-e0bd-4462-b283-a0569f8bc2d3"
+    documentation="Key2Datadistributie zorgt voor betrouwbare gegevensuitwisseling binnen de decentrale overheid. Feilloos koppelen met basisregistraties, procesapplicaties en Landelijke Voorzieningen; altijd actuele gegevens en terugmelden voor optimale kwaliteit. Met de nieuwste standaarden, die aansluiten bij de API-strategie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c8cef201-e0bd-4462-b283-a0569f8bc2d3"/>
+  <properties
+      key="URL"
+      value="https://www.centric.eu/nl/oplossingen/processen-optimaliseren/key2datadistributie/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

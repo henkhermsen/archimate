@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable-U 2Secure 1.1"
+    id="id-e8bf2ce3-c3e0-4f61-bb8e-4550f5ec939c"
+    documentation="Documentatie pakketversie--->Enable-U 2Secure verzorgt de beveiliging van de servicelaag in de ICT architectuur. Het is een belangrijke component voor elke organisatie die privacy en beveiliging van systemen on-premises en in de cloud eenduidig wil waarborgen. Met Enable-U 2Secure kunnen toegangsregels (policies) eenvoudig worden gedefinieerd én worden afgedwongen. Hiermee wordt het berichtenverkeer optimaal beveiligd tussen interne systemen, maar ook extern naar landelijke voorzieningen en derde partijen.&#xA;Enable-U 2Secure verzorgt de beveiliging van de servicelaag in de ICT architectuur. Het is een belangrijke component voor elke organisatie die privacy en beveiliging van alle systemen eenduidig wil waarborgen. Met Enable-U 2Secure kunnen toegangsregels (policies) eenvoudig worden gedefinieerd én worden afgedwongen. Hiermee wordt het berichtenverkeer optimaal beveiligd tussen interne systemen, maar ook extern naar landelijke voorzieningen en derde partijen.&#xD;&#xA;In Enable-U 2Secure zijn DigiD, eHerkenning en Idensys (eIDAS) modules gemaakt. Hiermee is het ook mogelijk om toegang tot formulieren, website en service te geven op basis van eHerkenning, Idensys en DigiD autorisatie. Enable-U 2Secure is dé oplossing om cloud connecties te maken naar externe systemen, waarbij gegevensuitwisseling noodzakelijk is.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="e8bf2ce3-c3e0-4f61-bb8e-4550f5ec939c"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.1"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+  <properties
+      key="Gebruik datum"
+      value="01-10-2014"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NGdW 4.4"
+    id="id-d7def198-e24d-47d5-aa1c-a64c297c6ad1"
+    documentation="Documentatie pakketversie--->De belangrijkste aanpassingen van patch 8 betreffen:&#xA;-Verbetering in de verwerking van StUF Geo-BAG kennisgevingen zonder ingevulde pand-status. Deze veroorzaken niet langer foutmeldingen die het StUF Geo-BAG berichtenverkeer ophouden.&#xA;-Herstel van de mogelijk om binnenvlakbestanden te exporteren inclusief links-rechts informatie.&#xA;&#xA;Het advies is om deze patch zo snel mogelijk te installeren.&#xA;&#xA;Eerder waren de belangrijkste aanpassingen van patch 6 en 7:&#xA;-Betere berekening uitcheckgebied wanneer een abonnementsbericht enkel twee puntobjecten bevat. (patch 7)&#xA;-Ondersteuning van inwinningsmethode L (laser) en P (panoramabeelden) bij het muteren met CAD. Deze waarden worden doorgezet naar nieuw ontstane plaatsbepalingspunten.&#xA;-Diverse aanpassingen voor BAG en BOR berichtenverkeer.&#xA;-Verbetering van de decompositie indien een object gewijzigd is en het ook in een binnenkomend abonnementsbericht zit.&#xA;-Betere berekening uitcheck gebied indien een abonnementsbericht alleen lijnen of punten bevat.&#xA;-Het kunnen verwijderen van een vervallen object uit de dataset. Dit biedt de mogelijkheid om het object opnieuw toe te voegen.&#xA;&#xA;Informatie over NGdW 4.4:&#xA;Hieronder een overzichtje met de meest relevante vernieuwingen in NGdW 4.4:&#xA;-Er zijn om te beginnen een aantal wensen van de NGdW gebruikersgroep geïmplementeerd zoals het presenteren op attributen, meer flexibiliteit van de NGDW rollen, de introductie van een objectenpaspoort&#xA;-Deze versie is geschikt om te functioneren met Oracle 19c en Oracle 12c&#xA;-Het verwerken van abonnementsberichten en de geautomatiseerde uitwisseling met BRAVO is nog verder geautomatiseerd (verbeterde decompositie)&#xA;-Er is extra functionaliteit toegevoegd voor een makkelijke en snellere uitrol van patches&#xA;-NGdW 4.4 is gecertificeerd voor gebruik i.c.m. de Machtigingenmodule van het BRAVO portaal&#xA;&#xA;Voor het totale overzicht van vernieuwingen en verbeteringen verwijzen wij u naar de release notes. Waarbij in de release notes ook een aantal aandachtspunten staan voor de migratie van Oracle 12c naar Oracle 19c.&#xA;&#xA;Upgrade naar NGdW 4.4:&#xA;Om uw huidige NGdW te upgraden naar deze nieuwe versie adviseren we u om dit met onze ondersteuning te doen. &#xA;&#xA;U kunt hiervoor een afspraak maken bij Cadac Group. &#xA;&#xA;Aandachtpunt Oracle 11G:&#xA;In het geval dat u nog gebruik maakt van Oracle 11 adviseren we u contact op te nemen met Cadac Group, omdat dan ook een upgrade / migratie van Oracle nodig is.&#xA;NGdW is een ruimtelijke database gebouwd in Oracle. NGdW valideert, vormt en verzorgt de opslag van objecten die naast hun geometrie ook administratieve kenmerken bevatten. De objecten worden gevormd en gevalideerd op basis van informatiemodellen. Dit kunnen de landelijk vastgestelde modellen zijn (BGT, IMGeo, BAG, WOZ, Wkpb, etc.), maar de gebruiker kan ook eigen modellen inbrengen. Door middel van check-in/check-out procedures bewerkt u de bestanden in uw CAD systeem (GEOCAD, IGOS of TopoCAD).&#xD;&#xA;Voor een efficiënt beheerproces wordt al uw object- en lijngericht kaartmateriaal met NGdW centraal opgeslagen, zodat er maar één plek is in uw organisatie waar de datasets van het kaartmateriaal worden beheerd. Eenmalig inwinnen en meervoudig gebruik wordt hiermee mogelijk gemaakt.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="d7def198-e24d-47d5-aa1c-a64c297c6ad1"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="4.4"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

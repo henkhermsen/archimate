@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedGraphics BV"
+    id="id-4db217e8345b000a337026cf5862a6d0"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="4db217e8345b000a337026cf5862a6d0"/>
+</archimate:BusinessActor>

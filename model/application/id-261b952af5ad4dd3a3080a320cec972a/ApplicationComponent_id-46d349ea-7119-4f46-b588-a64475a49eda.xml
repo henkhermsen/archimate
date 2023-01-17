@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="archief.venlo.nl"
+    id="id-46d349ea-7119-4f46-b588-a64475a49eda"
+    documentation="archief.venlo.nl">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="46d349ea-7119-4f46-b588-a64475a49eda"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="archief.venlo.nl"/>
+</archimate:ApplicationComponent>

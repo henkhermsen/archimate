@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aloha"
+    id="id-a9dc644a-6de9-4a07-b003-790509e0ea0d">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="a9dc644a-6de9-4a07-b003-790509e0ea0d"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

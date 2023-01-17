@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AAG (Assurantie Administratie voor Gemeenten) AAG 2019"
+    id="id-a2e998c0-4e12-43f0-adb4-7177ea48a9bc"
+    documentation="Documentatie pakketversie--->AAG ontwikkelt door o.b.v. van de feedback van haar gebruikers. In deze (major) release zullen een aantal langgekoesterde wensen in vervulling gaan. Aanvullend is de module AAGArchief beschikbaar. Hiermee kan op dossierniveau de bewaarttermijn gemanaged worden.&#xA;AAG is het pakket voor Verzekerings- en Schademanagement voor Nederlandse gemeenten.&#xA;AAG 2019">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="a2e998c0-4e12-43f0-adb4-7177ea48a9bc"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="AAG 2019"/>
+  <properties
+      key="Omschrijving gebruik"
+      value="AAG 2019"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

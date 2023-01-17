@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MeldDesk"
+    id="id-5d469200-54e5-4f97-8ae5-feb0bba7d463"
+    documentation="MeldDesk is een informatiesysteem voor het registreren en afhandelen van meldingen en klachten van burgers in de openbare ruimte. Door gebruik te maken van MeldDesk verkort u de doorlooptijden, verbetert de dienstverlening en voorkomt u fouten. Dit bespaart kosten, verbetert de kwaliteit van de dienstverlening en vermindert risico’s. Het systeem is zeer flexibel in te richten, waardoor het altijd aansluit bij de eigen organisatie, protocollen, processen en systemen. U neemt alleen de modules af die u nodig hebt.&#xA;&#xA;Melden én opvolgen&#xA;In onze filosofie is het efficiënt managen van meldingen een tweetrapsraket. In de eerste plaats moeten inwoners meldingen laagdrempelig kunnen doorgeven en eenvoudig de status van meldingen kunnen volgen. Tegelijkertijd is het belangrijk dat de gemeente meldingen vlekkeloos opvolgt, risico’s tijdig inschat en snel actie onderneemt. MeldDesk helpt gemeenten om deze dubbele doelstelling waar te maken. Voor meldingen in de openbare ruimte biedt MeldDesk veruit de meeste functionaliteit in de markt. Oftewel: compleet meldingenmanagement binnen één omgeving.&#xA;&#xA;Oplossing voor het hele proces&#xA;MeldDesk levert een oplossing voor het hele proces van melden en afhandelen. Zowel burgers, gemeentelijke organisatie als buitendienst kunnen gebruikmaken van het systeem, dankzij de mogelijkheden voor apps en integratie met social media. MeldDesk verbindt burgers en medewerkers binnen en buiten de organisatie. Informatie wordt eenmalig ingevoerd en meldingen kunnen helemaal digitaal worden afgehandeld.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="5d469200-54e5-4f97-8ae5-feb0bba7d463"/>
+  <properties
+      key="URL"
+      value="http://www.beheervisie.nl/index-2.php"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

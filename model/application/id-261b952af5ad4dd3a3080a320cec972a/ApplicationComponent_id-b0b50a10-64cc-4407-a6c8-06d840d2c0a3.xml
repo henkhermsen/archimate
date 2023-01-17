@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TriplEforms® 3.4"
+    id="id-b0b50a10-64cc-4407-a6c8-06d840d2c0a3"
+    documentation="Documentatie pakketversie--->&#xA;TriplEforms® is een oplossing waarmee intelligente digitale formulieren ontworpen, ontwikkeld, beheerd én geïntegreerd worden. Met de uitgebreide maar intuïtieve TriplEforms® Editor is het mogelijk om eenvoudig en razendsnel digitale formulieren te ontwikkelen. TriplEforms® verenigt de vragenboom technologie met de technologie van intelligente formulieren, waardoor alle mogelijke vormen van vraag – antwoord interactie kunnen worden gerealiseerd. De interactie kan zowel door gebruikersinput, externe bronsystemen of berekeningen worden aangestuurd. Uniek hierbij is de ondersteuning voor meervoudige en samengestelde aanvraagprocessen, ook wel scenario’s genoemd. TriplEforms® is daarnaast volledig multichannel in te zetten; één en hetzelfde formulier is inzetbaar voor meerdere kanalen zoals callcenter of balie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="b0b50a10-64cc-4407-a6c8-06d840d2c0a3"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="3.4"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="Uit te faseren"/>
+</archimate:ApplicationComponent>

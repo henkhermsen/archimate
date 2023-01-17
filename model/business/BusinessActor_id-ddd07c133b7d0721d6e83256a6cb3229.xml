@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bink software BV"
+    id="id-ddd07c133b7d0721d6e83256a6cb3229"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ddd07c133b7d0721d6e83256a6cb3229"/>
+</archimate:BusinessActor>

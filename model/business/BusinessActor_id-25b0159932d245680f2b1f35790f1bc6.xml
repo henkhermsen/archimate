@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centric"
+    id="id-25b0159932d245680f2b1f35790f1bc6"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="25b0159932d245680f2b1f35790f1bc6"/>
+</archimate:BusinessActor>

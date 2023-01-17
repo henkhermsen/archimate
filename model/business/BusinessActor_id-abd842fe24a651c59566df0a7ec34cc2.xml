@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ARAS"
+    id="id-abd842fe24a651c59566df0a7ec34cc2"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="abd842fe24a651c59566df0a7ec34cc2"/>
+</archimate:BusinessActor>

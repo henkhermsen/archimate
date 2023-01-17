@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CiVision Makelaar Gegevens"
+    id="id-acb8305f-9741-4009-a646-158529f9276d"
+    documentation="CiVision Makelaar Gegevens is onderdeel van pakket Makelaarsuite. De actuele versienummers zijn daar opgenomen.&#xA;CiVision Makelaar Gegevens biedt datadistributie functionaliteit, waarbij binnengemeentelijke gegevens worden gedistribueerd naar geïnteresseerde applicaties. CiVision Makelaar Gegevens geeft ook inzicht in de gegevens die de applicatie hebben afgenomen en aangeleverd. De datadistributie functionaliteit is rijk en flexibel. Voor elke applicatie kan specifiek worden ingericht hoe de distributie moet plaatsvinden en voor welke gegevens.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="acb8305f-9741-4009-a646-158529f9276d"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl/beleidsterreinen/informatievoorziening/gegevenslogistiek/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

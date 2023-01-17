@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procura"
+    id="id-931bb2c5-cc38-4c24-93d7-98cf445703f8">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="931bb2c5-cc38-4c24-93d7-98cf445703f8"/>
+  <properties
+      key="URL"
+      value="https://www.procura.nl"/>
+</archimate:BusinessActor>

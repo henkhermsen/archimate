@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DVG (Drupal voor Gemeenten)"
+    id="id-1c62972450e5d80d5ac05a0aa0be3e80"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="1c62972450e5d80d5ac05a0aa0be3e80"/>
+</archimate:BusinessActor>

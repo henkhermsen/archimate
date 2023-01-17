@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sweco Nederland B.V."
+    id="id-5ea24c30-0b14-4d89-9142-444ababffc35">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="5ea24c30-0b14-4d89-9142-444ababffc35"/>
+  <properties
+      key="URL"
+      value="https://bgtsoftware.nl"/>
+</archimate:BusinessActor>

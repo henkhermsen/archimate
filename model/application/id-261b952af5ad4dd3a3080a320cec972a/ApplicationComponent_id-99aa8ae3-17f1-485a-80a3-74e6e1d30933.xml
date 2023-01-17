@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embrace Social R44"
+    id="id-99aa8ae3-17f1-485a-80a3-74e6e1d30933"
+    documentation="Documentatie pakketversie--->R44.&#xA;&#xA;Embrace biedt iedere 8 weken een nieuwe release aan. De inhoud van deze releases ontstaan uit patches (opgeloste fouten of verbeteringen), gerealiseerde wensen van partners &amp; klanten, aanpassingen i.v.m. wet &amp; regelgeving, noodzakelijke aanpassingen aan koppelingen aan derde partijen (bijvoorbeeld LinkedIn, Twitter, Office365).&#xA;&#xA;Releasenotes zijn beschikbaar in de Embrace gebruikersgroep: https://gebruikersgroep.embracecloud.nl/ &#xA;Maak kennis met de digitale werkplek van morgen. Embrace Social is een online samenwerk-omgeving. Het is de basis voor een social intranet. Via dit platform verbinden we mensen met ideeën, kennis en informatie, zodat ze slimmer kunnen werken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="99aa8ae3-17f1-485a-80a3-74e6e1d30933"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="R44"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Media Monitor OBI4wan SCRUM"
+    id="id-fdb39538-adf7-48e4-9a45-1a73c5e376b6"
+    documentation="Documentatie pakketversie--->De online media monitor OBI4wan is SaaS is in gebruik bij 285 gemeenten in Nederland. We maken geen gebruik van versies. Wij ontwikkelen de monitor doorlopend volgens een SCRUM aanpak. We verbeteren ons product elke vier weken. Dat doen we al sinds 2011. &#xA;OBI4wan is een complete oplossing voor webcare en realtime monitoring van sociale media, nieuwssites, nieuws reacties, fora en blogs. Inbegrepen zijn o.a. live narrowcasting (dashboards live delen of presenteren op een groot scherm), automatische alerts en nieuwsbrief functie &amp;amp; publiceren en werken vanuit één centrale contentkalender.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="fdb39538-adf7-48e4-9a45-1a73c5e376b6"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="SCRUM"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

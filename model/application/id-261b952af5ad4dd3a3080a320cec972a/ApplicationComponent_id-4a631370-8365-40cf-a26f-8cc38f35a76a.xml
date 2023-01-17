@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adobe acrobat pro"
+    id="id-4a631370-8365-40cf-a26f-8cc38f35a76a"
+    documentation="adobe acrobat pro">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="4a631370-8365-40cf-a26f-8cc38f35a76a"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="adobe acrobat pro"/>
+</archimate:ApplicationComponent>

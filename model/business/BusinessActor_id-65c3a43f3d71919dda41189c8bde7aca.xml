@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBI4wan"
+    id="id-65c3a43f3d71919dda41189c8bde7aca"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="65c3a43f3d71919dda41189c8bde7aca"/>
+</archimate:BusinessActor>

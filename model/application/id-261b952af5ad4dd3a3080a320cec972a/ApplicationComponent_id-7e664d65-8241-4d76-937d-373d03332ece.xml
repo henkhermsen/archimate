@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOPdesk TOPdesk Enterprise"
+    id="id-7e664d65-8241-4d76-937d-373d03332ece"
+    documentation="Documentatie pakketversie--->Wat als klanten vanaf één plek gemakkelijk alle antwoorden kunnen krijgen op hun IT-, facilitaire, HR- of andere servicevragen? Zonder te moeten zoeken naar het juiste kanaal of de juiste persoon?&#xA;&#xA;Met de Enterprise Service Management (ESM)-software van TOPdesk bundelen jouw serviceteams hun krachten en verwerken ze samen aanvragen vanaf één platform. Met gestroomlijnde klantondersteuning door je gehele organisatie los je problemen sneller op, communiceer je beter én bied je meer waarde aan je klant.&#xA;Software en consultancy.&#xA;&#xA;&#xA;TOPdesk helpt uw dienstverlening verbeteren. Of het nu gaat om uw IT-afdeling, Facility Management, of e-HRM. Met onze gebruiksvriendelijke standard service management software, ervaren consultants en deskundige support-afdeling hebben wij altijd een oplossing. Ervaar zelf hoe simpel samenwerken kan zijn.&#xA;&#xA;&#xA;TOPdesk is de drijvende kracht achter talloze bedrijven. Dagelijks vertrouwen miljoenen veeleisende gebruikers in 45 landen op TOPdesk. Onze beproefde software maakt efficiënt en geordend werken bereikbaar. Onze missie is de dienstverlening van uw organisatie zo goed mogelijk te ondersteunen. En omdat wij als het goed gaat niet opvallen, kent u ons wellicht nog niet. Toch is het tijd om dit publieke geheim naar buiten te brengen. Kortom: ontdek TOPdesk en behoor ook tot de beste servicedesks!                                                                                                                                                                                                                                              &#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="7e664d65-8241-4d76-937d-373d03332ece"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="TOPdesk Enterprise"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

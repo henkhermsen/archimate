@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEVENTit BV"
+    id="id-b111f1147bf494b18b45cbc9d733d684"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="b111f1147bf494b18b45cbc9d733d684"/>
+</archimate:BusinessActor>

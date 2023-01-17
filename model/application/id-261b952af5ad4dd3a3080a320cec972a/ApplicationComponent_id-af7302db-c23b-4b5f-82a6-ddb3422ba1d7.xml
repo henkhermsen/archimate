@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verloren of Gevonden PerfectView Online"
+    id="id-af7302db-c23b-4b5f-82a6-ddb3422ba1d7"
+    documentation="Documentatie pakketversie--->De oplossing bestaat uit een online software-applicatie (cloud) voor het wettelijk behandelen van de zorgplicht onbeheerde zaken, webformulieren voor het eenvoudig aanmelden van voorwerpen en een aansluiting op de door PerfectView ontwikkelde website www.VerlorenofGevonden.nl. Voor de doorontwikkeling wordt nauw samengewerkt met gemeenten, politie en verzekeraars.&#xA;Sinds 2012 is de zorgplicht voor onbeheerde zaken belegd bij gemeenten. Het Onegov 365 Zaaksysteem biedt een oplossing voor registratie en beheer van deze voorwerpen. Onderdeel van de oplossing is ook een publicatievoorziening naar de website www.VerlorenofGevonden.nl, waar meer dan 250 gemeenten op zijn aangesloten. Grote kans dat uw verloren voorwerp op deze site is terug te vinden!&#xD;&#xA;&#xD;&#xA;Deze toepassing is tot stand gekomen vanuit onze samenwerking met PerfectView. Kijk ook op https://overheid.perfectviewcrm.nl/verloren-of-gevonden/ voor meer informatie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="af7302db-c23b-4b5f-82a6-ddb3422ba1d7"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="PerfectView Online"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

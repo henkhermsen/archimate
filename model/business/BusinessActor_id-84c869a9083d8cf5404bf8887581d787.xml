@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Easy Data"
+    id="id-84c869a9083d8cf5404bf8887581d787"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="84c869a9083d8cf5404bf8887581d787"/>
+</archimate:BusinessActor>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vergunningen Informatie Systeem (VIS)"
+    id="id-f427cbbe-6ad0-426a-95d2-3ed66b68fea6"
+    documentation="Vergunningen systeem waarin aanvraag, controle en handhaving ondersteund wordt voor Bijzondere Wetten en APV. Op basis van landelijke en gemeentelijke wetgeving wordt de gebruiker door middel van een workflow door het proces geleid om te komen tot de juiste volgende stap en uiteindelijk een vergunning. Tijdens het proces worden de juiste documenten gegenereerd door het systeem. Update van wet- en regelgeving wordt verzorgd in samenwerking met Academie voor Bijzondere Wetten.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="f427cbbe-6ad0-426a-95d2-3ed66b68fea6"/>
+  <properties
+      key="URL"
+      value="http://www.berkeleybridge.nl/vergunningen-informatie-systeem/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

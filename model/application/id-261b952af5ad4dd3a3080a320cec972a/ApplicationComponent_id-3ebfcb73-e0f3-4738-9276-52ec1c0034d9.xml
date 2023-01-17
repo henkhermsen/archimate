@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alice enterprise search"
+    id="id-3ebfcb73-e0f3-4738-9276-52ec1c0034d9"
+    documentation="Alice is een geïntegreerd zoek- en content integratie systeem dat informatie uit al uw informatiebronnen verzamelt, analyseert en indexeert.&#xD;&#xA;Hierdoor kunt u inhoud uit deze bronnen razendsnel vinden en tonen.&#xD;&#xA;Denk hierbij aan web- en intranetsites, DMS- en zaaksystemen, fileshares, archief- en legacy systemen.&#xD;&#xA;Het is mogelijk (overgenomen) documenten en informatie te bewaren en beheren, zodat documenten en informatie van een systeem dat niet meer beschikbaar is (legacy) toch beschikbaar blijft.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="3ebfcb73-e0f3-4738-9276-52ec1c0034d9"/>
+  <properties
+      key="URL"
+      value="https://www.open-t.nl/producten/alice"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

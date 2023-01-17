@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AAG (Assurantie Administratie voor Gemeenten)"
+    id="id-c258f679-8cee-4215-b509-d5e4c8f618bf"
+    documentation="AAG is het pakket voor Verzekerings- en Schademanagement voor Nederlandse gemeenten.&#xA;AAG 2019">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c258f679-8cee-4215-b509-d5e4c8f618bf"/>
+  <properties
+      key="URL"
+      value="http://aag.bentis.nl/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"
+      value="AAG 2019"/>
+</archimate:ApplicationComponent>

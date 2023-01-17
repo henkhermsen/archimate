@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebIS Mijn Overheid"
+    id="id-95682064-b6f7-4948-94c7-5d14bd8b3fee"
+    documentation="Nu de overheid inzet op het beëindigen van het verzenden van de blauwe envelop, zal de digitalisering versnellen. De verwachting is dat zo’n 10 miljoen Nederlanders de komende 2 jaar al dan niet verplicht gaan aansluiten op de Berichtenbox van MijnOverheid. Dit heeft grote invloed op de manier van communiceren. Als BakerWare faciliteren we een groot aantal belastingkantoren en gemeenten van allerlei soorten documenten met de ontsluiting naar de Berichtenbox. Bij BakerWare krijgt u voor een vaste prijs uw aansluiting snel gerealiseerd met vaste jaarlijkse kosten. Documentenopslag behoort tot de mogelijkheden. Tevens kunnen wij er voor zorgen dat de gebruiker vanuit de Berichtenbox zonder extra in te loggen naar de Digitale Balie of naar de betaaloplossing wordt geleid, middels een SAML-koppeling.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="95682064-b6f7-4948-94c7-5d14bd8b3fee"/>
+  <properties
+      key="URL"
+      value="http://www.bakerware.nl/producten/mijn-overheid/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

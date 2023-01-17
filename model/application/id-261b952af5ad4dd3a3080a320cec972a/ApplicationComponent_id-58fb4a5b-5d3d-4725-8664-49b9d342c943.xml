@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBI Bots 2.0"
+    id="id-58fb4a5b-5d3d-4725-8664-49b9d342c943"
+    documentation="Documentatie pakketversie--->Bot systeem, met taalherkenning. Mogelijkheid om zelf in te richten en te onderhouden. Met actieve groep van gemeenten die met elkaar bot content voor gemeenten ontwikkelen en onderhouden.&#xA;Zelf instelbare bot. Koppelbaar aan andere systemen. Herkent vrije tekst (chatbot, WhatsApp). Via website, mobile en social media.&#xD;&#xA;Deelnemende gemeenten ontwikkelen samen de content voor de bots.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="58fb4a5b-5d3d-4725-8664-49b9d342c943"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="2.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteunen exploiteren van terreinen"
+    id="id-13cf0afc1f5841d6820b720835297e06"
+    documentation="Applicatieservice voor het exploiteren van gemeentelijke terreinen.">
+  <properties
+      key="Object ID"
+      value="98a19634-1196-498f-9d03-b9614e1cd6d0"/>
+</archimate:ApplicationService>

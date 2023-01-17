@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capgemini"
+    id="id-b0da8319-cd76-44d3-b472-11b1ac0712a8">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="b0da8319-cd76-44d3-b472-11b1ac0712a8"/>
+  <properties
+      key="URL"
+      value="http://www.nl.capgemini.com/diensten/markten/public_sector/overzicht"/>
+</archimate:BusinessActor>

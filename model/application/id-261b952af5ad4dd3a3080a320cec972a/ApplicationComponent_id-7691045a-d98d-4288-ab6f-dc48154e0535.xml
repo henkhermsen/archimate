@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PlanKaart Versie 8.0"
+    id="id-7691045a-d98d-4288-ab6f-dc48154e0535"
+    documentation="Documentatie pakketversie--->&#xA;Met PlanKaart kunnen ruimtelijke plannen worden gemaakt. Het maken en uitwisselen van alle typen ruimtelijke plannen die in de Wro zijn gedefinieerd wordt ondersteund. De standaarden IMRO2012, SVBP2012, STRI2012 en PT2021 zijn volledig geïntegreerd. Een automatische opwaardering van 2008 plannen naar 2012 plannen is mogelijk. In PlanKaart is er veel aandacht besteed aan het efficiënt tekenen, arceren en coderen van de planvlakken en aan controlefunctionaliteit. Planteksten kunnen binnen Plan worden gekoppeld met Plantekst programma’s van derden en met GISkit Plantekst. GISkit levert een stuurtabel waar alle in het SVBP2012 beschreven objecten al zijn gedefinieerd, vergezeld met alle daarin voorkomende arceringen en lijntypes. U kunt dan ook direct beginnen met tekenen. IMRO codes worden direct gekoppeld. Achteraf coderen van de tekening kan wel maar is niet noodzakelijk.&#xD;&#xA;Nadat u het plan volledig heeft getekend is het zeer eenvoudig om het te exporteren naar het GML formaat. Uitgebreide controle functionaliteit hierbij helpt de gebruiker een correct plan te maken. Bij de import worden de kaartonderdelen weer direct gepresenteerd zoals in de stuurtabel staat aangegeven. &#xD;&#xA; GISkit PlanKaart is geschikt voor AutoCAD, AutoCAD Map (versie 2010+), Microstation SS2+ en ArcGIS.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="7691045a-d98d-4288-ab6f-dc48154e0535"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="Versie 8.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMIS Accommodatie reservering"
+    id="id-755cc149-7a3e-4b7f-af76-d237372beb74"
+    documentation="AMIS Accommodatie reservering">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="755cc149-7a3e-4b7f-af76-d237372beb74"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="AMIS Accommodatie reservering"/>
+</archimate:ApplicationComponent>

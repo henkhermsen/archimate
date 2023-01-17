@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PHPRunner 10.8"
+    id="id-31efa39d-f941-44ee-aa19-30ab9fed0e28-pv"
+    documentation="PHP-runner">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="31efa39d-f941-44ee-aa19-30ab9fed0e28-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="10.8"/>
+  <properties
+      key="Omschrijving"
+      value="PHP-runner"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

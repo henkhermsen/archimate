@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PinkRoccade Local Government"
+    id="id-ce9f39b8-b833-470f-b537-07c7ea326ca4">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ce9f39b8-b833-470f-b537-07c7ea326ca4"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl"/>
+</archimate:BusinessActor>

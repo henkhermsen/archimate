@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Youforce"
+    id="id-69e66b42-0bdd-47b1-9aee-c4c76de3c625"
+    documentation="Raet is gespecialiseerd in HR-cloudoplossingen en daaraan gerelateerde services. Onze oplossingen creëren eenvoud en eenheid en geven managers en HR-professionals bij meer dan 10.000 organisaties dagelijks controle over hun HR-zaken.  Daarnaast bieden we 1,7 miljoen medewerkers altijd en overal de mogelijkheid om hun HR-zaken te regelen in één geïntegreerd systeem, vanaf elk gewenst device. &#xA;Raet is sinds 1965 actief in Nederland  en een opkomende speler op de internationale markt. Raet en haar ruim 1.100 medewerkers opereren vanuit meer dan 15 landen wereldwijd, waaronder  Nederland, Spanje, België, Peru , Chili en Argentinië .  &#xA;&#xA;Volledige controle over uw HR-zaken met Youforce&#xA;&#xA;Eén plek waar al uw HR-processen samenkomen. Online. Met onze HR cloud software Youforce geeft u managers en medewerkers inzicht in en controle over hun HR-zaken. Waar en wanneer zij dat willen, op elk device. U heeft alle HR-kengetallen binnen handbereik en krijgt de inzichten die u nodig heeft om ervoor te zorgen dat uw mensen het maximale uit hun talenten halen.&#xA;&#xA;Kijk voor meer informatie op: www.raet.nl&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="69e66b42-0bdd-47b1-9aee-c4c76de3c625"/>
+  <properties
+      key="URL"
+      value="http://www.raet.nl/hr-software"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

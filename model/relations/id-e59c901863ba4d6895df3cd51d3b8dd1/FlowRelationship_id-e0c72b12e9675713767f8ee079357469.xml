@@ -1,0 +1,39 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="intern (Webservices)"
+    id="id-e0c72b12e9675713767f8ee079357469">
+  <properties
+      key="SWC type"
+      value="Koppeling"/>
+  <properties
+      key="SWC subtype"
+      value="Binnengemeentelijk"/>
+  <properties
+      key="Status"
+      value="In productie"/>
+  <properties
+      key="Transportprotocol"
+      value="Webservices"/>
+  <properties
+      key="Type"
+      value="custom"/>
+  <properties
+      key="Documentatie koppeling"
+      value="post en facturen inscannen, aanmaken zaak/bericht en uploaden document"/>
+  <properties
+      key="Intermediair ID"
+      value="27afe0bc-6250-4b3c-9334-297520fb3372"/>
+  <properties
+      key="Intermediair"
+      value="Enable-U 2Orchestrate 6.2"/>
+  <properties
+      key="Object ID"
+      value="e0c72b12e9675713767f8ee079357469"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3adeaa2a-15d5-48f1-ba5b-a3db57d45074-pv.xml#id-3adeaa2a-15d5-48f1-ba5b-a3db57d45074-pv"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ad0d0547-ae51-4175-8536-614ef4c1c2d1.xml#id-ad0d0547-ae51-4175-8536-614ef4c1c2d1"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(import) Publiceren niet gebruikte elementen"
+    id="id-39daba5c517045dfa664bd59feb3db36"
+    documentation="Objecten die niet op een view staan, worden bij het importeren door ArchiMedes uitgefilterd. Objecten waarvoor geen zinvolle GEMMA view bestaat, maar die wel in lijsten of in de softwarecatalogus gebruikt worden staan op views in deze map"/>

@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neuron BRK"
+    id="id-c889970d-5193-43ae-819e-6ade07f91644"
+    documentation="Neuron BRK is de module binnen Neuron Stelselregistratie om BRK-gegevens te raadplegen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c889970d-5193-43ae-819e-6ade07f91644"/>
+  <properties
+      key="URL"
+      value="http://www.vicrea.nl/producten/neuron-registratie/producten/neuron-brk/overzicht/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

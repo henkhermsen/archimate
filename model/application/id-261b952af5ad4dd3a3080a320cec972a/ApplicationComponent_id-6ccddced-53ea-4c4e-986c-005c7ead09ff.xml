@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server"
+    id="id-6ccddced-53ea-4c4e-986c-005c7ead09ff"
+    documentation="Microsoft SQL Server is een relationeel databasebeheersysteem ontwikkeld door Microsoft. Het ondersteunt T-SQL, een dialect van SQL, de meest gebruikte databasetaal. Het wordt algemeen gebruikt door organisaties voor kleine tot middelgrote databases">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="6ccddced-53ea-4c4e-986c-005c7ead09ff"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Microsoft SQL Server is een relationeel databasebeheersysteem ontwikkeld door Microsoft. Het ondersteunt T-SQL, een dialect van SQL, de meest gebruikte databasetaal. Het wordt algemeen gebruikt door organisaties voor kleine tot middelgrote databases"/>
+</archimate:ApplicationComponent>

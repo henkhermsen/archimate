@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable-U 2Orchestrate 6.x"
+    id="id-47ac27c4-2368-4c09-992b-05db378cdd52"
+    documentation="Documentatie pakketversie--->Iin deze versie worden alle versies vanaf 6.0 ondersteund. Via de website van Enable-U wordt aangegeven wanneer er patches en updates zijn om op de laatste versie of release te komen. Alle bestaande koppelingen blijven werken.  &#xA;Enable-U 2Orchestrate ontvangt berichten en bezorgt ze in het juiste formaat (eventueel na transformatie) op het juiste moment via de juiste route (bijv. eerst langs een zakensysteem) bij de juiste applicatie. Op deze manier ontstaat een grote mate aan flexibiliteit in de in met velerlei systemen, bestandsformaten en transportprotocollen. De geboden oplossing integreert makkelijk met allerlei andere gemeentelijke applicaties en databases. Enable-U 2Orchestrate bevat een StUF koppelvlak en een aantal standaard gemeentelijke zaakprocessen die snel en eenvoudig te implementeren zijn. Enable-U 2Orchestrate loopt voorop als het gaat om de ondersteuning van nieuwe standaarden. Dit maakt Enable-U 2Orchestrate een veilige en toekomst vaste investering. Enable-U 2Orchestrate stelt gemeenten in staat om digitale dienstverlening mogelijk te maken, waarbij veel applicatiekoppelingen nodig zijn. Het is de perfecte invulling van de gemeentelijke service bus (ESB, Broker) functionaliteit. Ook het beveiligen van het berichten verkeer op basis van bv digikoppeling WUS protocol is mogelijk.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="47ac27c4-2368-4c09-992b-05db378cdd52"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="6.x"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TON (Transitie Oude Nummers)"
+    id="id-74d2f23b-c8f3-45d4-b6a5-12de6c305989"
+    documentation="TON (Transitie Oude Nummers)">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="74d2f23b-c8f3-45d4-b6a5-12de6c305989"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="TON (Transitie Oude Nummers)"/>
+</archimate:ApplicationComponent>

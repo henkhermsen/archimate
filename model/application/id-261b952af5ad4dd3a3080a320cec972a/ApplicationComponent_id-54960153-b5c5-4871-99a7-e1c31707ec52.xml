@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geavanceerde elektronische handtekening"
+    id="id-54960153-b5c5-4871-99a7-e1c31707ec52"
+    documentation="Een geavanceerde elektronische handtekening is een handtekening waarbij een certificaat is gebruikt. Een geavanceerde elektronische handtekening is juridisch gelijk aan een gewone handtekening mits de juiste identificatie is toegepast. Voor het ondertekenen van het document is niets anders nodig dan een device met internet toegang. &#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="54960153-b5c5-4871-99a7-e1c31707ec52"/>
+  <properties
+      key="URL"
+      value="https://www.validsign.nl/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

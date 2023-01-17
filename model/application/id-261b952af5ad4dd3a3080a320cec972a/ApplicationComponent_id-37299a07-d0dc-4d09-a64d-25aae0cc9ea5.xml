@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite4Werk en Inkomen"
+    id="id-37299a07-d0dc-4d09-a64d-25aae0cc9ea5"
+    documentation="Suite4Werk en Inkomen biedt u dé oplossing om de bedrijfsvoering voor inkomensondersteuning en participatie efficiënt en effectief uit te voeren: &#xA;•&#x9;workflow: oog voor goede procesondersteuning&#xA;•&#x9;gegevensuitwisseling: koppelingen via landelijke standaarden&#xA;•&#x9;zaakgericht werken: verbetering van de dienstverlening aan burgers en documenten zaakgericht opslaan&#xA;•&#x9;veilige gegevensuitwisseling: privacy en aandacht voor informatiebeveiliging en autorisatie (AVG)&#xA;&#xA;Als onderdeel van Suite4Werk en Inkomen biedt Key2Participtie oplossingen om mensen naar werk te begeleiden. Onze oplossingen vertalen zich in:&#xA;•&#x9;Bredere mogelijkheden tot samenwerking voor werkbedrijven, werkgevers en externe partijen zoals het UWV&#xA;•&#x9;Uitwisseling van gegevens voor de uitvoering van de inburgering&#xA;•&#x9;Procesoptimalisatie door diagnoses te koppelen aan trajectadvies&#xA;Met deze oplossingen vergroot u de zelfredzaamheid van de burger en faciliteert u professionals in het beheer van hun caseload. &#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="37299a07-d0dc-4d09-a64d-25aae0cc9ea5"/>
+  <properties
+      key="URL"
+      value="http://www.centric.eu/NL/Default/Branches/Lokale-overheid/Oplossingen/Werk-en-Inkomen"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

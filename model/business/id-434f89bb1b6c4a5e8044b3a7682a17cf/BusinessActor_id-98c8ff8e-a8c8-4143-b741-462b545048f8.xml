@@ -1,0 +1,11 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open Source pakketten"
+    id="id-98c8ff8e-a8c8-4143-b741-462b545048f8">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="98c8ff8e-a8c8-4143-b741-462b545048f8"/>
+</archimate:BusinessActor>

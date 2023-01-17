@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BakerWare"
+    id="id-b9ee32a4-b2b6-4931-821a-dc59f3bdd026">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="b9ee32a4-b2b6-4931-821a-dc59f3bdd026"/>
+  <properties
+      key="URL"
+      value="https://www.bakerware.nl"/>
+</archimate:BusinessActor>

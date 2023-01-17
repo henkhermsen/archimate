@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AMIS Accommodatie reservering actueel"
+    id="id-755cc149-7a3e-4b7f-af76-d237372beb74-pv"
+    documentation="AMIS Accommodatie reservering">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="755cc149-7a3e-4b7f-af76-d237372beb74-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="actueel"/>
+  <properties
+      key="Omschrijving"
+      value="AMIS Accommodatie reservering"/>
+  <properties
+      key="Gebruik status"
+      value="Gepland"/>
+  <properties
+      key="Gebruik datum"
+      value="01-01-2023"/>
+</archimate:ApplicationComponent>

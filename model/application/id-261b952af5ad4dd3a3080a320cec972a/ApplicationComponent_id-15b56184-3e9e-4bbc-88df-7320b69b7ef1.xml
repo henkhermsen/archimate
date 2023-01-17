@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs SaaS versie"
+    id="id-15b56184-3e9e-4bbc-88df-7320b69b7ef1"
+    documentation="Documentatie pakketversie--->&#xA;Met een laptop of tablet met iBabs heeft u alle agendapunten, onderliggende stukken en persoonlijke aantekeningen binnen handbereik. Via het archief kunt u oude vergaderingen of acties en besluiten eenvoudig doorzoeken. Offline werken is geen probleem. Uw apparaat synchroniseert automatisch op het moment dat u weer online bent. Bovendien is iBabs platform onafhankelijk. &#xD;&#xA;&#xD;&#xA;Inmiddels heeft iBabs ruim 20 jaar ervaring in het vastleggen van bestuurlijke besluitvorming. Het generen van de notulen gebeurt dan ook volledig automatisch. Eenvoudig terugzoeken in de openstaande actie -en besluitenlijst kunt u met een druk op de knop. Zo kent iBabs nog vele andere slimme tijdbesparende opties om uw vergaderproces te optimaliseren. &#xD;&#xA;&#xD;&#xA;U kunt alle vertrouwelijke documenten met een gerust hart in iBabs plaatsen. Wij voldoen aan de hoogste veiligheidseisen en zijn ISO 27001-gecertificeerd.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="15b56184-3e9e-4bbc-88df-7320b69b7ef1"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="SaaS versie"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

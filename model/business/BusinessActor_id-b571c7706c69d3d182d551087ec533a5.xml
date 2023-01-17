@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leica Geosystems BV"
+    id="id-b571c7706c69d3d182d551087ec533a5"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="b571c7706c69d3d182d551087ec533a5"/>
+</archimate:BusinessActor>

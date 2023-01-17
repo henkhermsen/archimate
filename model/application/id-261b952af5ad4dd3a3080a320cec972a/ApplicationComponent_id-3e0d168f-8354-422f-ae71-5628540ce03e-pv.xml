@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aquaview 2022"
+    id="id-3e0d168f-8354-422f-ae71-5628540ce03e-pv"
+    documentation="aquaview">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="3e0d168f-8354-422f-ae71-5628540ce03e-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="aquaview"/>
+  <properties
+      key="Gebruik status"
+      value="Uit te faseren"/>
+  <properties
+      key="Gebruik datum"
+      value="26-07-2022"/>
+</archimate:ApplicationComponent>

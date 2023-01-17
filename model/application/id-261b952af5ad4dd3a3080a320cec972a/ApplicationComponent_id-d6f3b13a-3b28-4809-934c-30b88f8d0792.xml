@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GGk (Gemeentelijk Gegevensknooppunt)"
+    id="id-d6f3b13a-3b28-4809-934c-30b88f8d0792">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="d6f3b13a-3b28-4809-934c-30b88f8d0792"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+</archimate:ApplicationComponent>

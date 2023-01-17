@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QGIS"
+    id="id-5afea803-1091-497a-a6d8-63d96eca3fcf"
+    documentation="Creëer, wijzig, visualiseer, analyseer en publiceer geografische informatie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="5afea803-1091-497a-a6d8-63d96eca3fcf"/>
+  <properties
+      key="URL"
+      value="https://www.qgis.org/nl/site/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

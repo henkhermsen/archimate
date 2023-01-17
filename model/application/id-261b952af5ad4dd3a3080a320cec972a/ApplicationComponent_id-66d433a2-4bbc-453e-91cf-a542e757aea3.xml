@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CiVision Makelaar Landelijke Voorziening"
+    id="id-66d433a2-4bbc-453e-91cf-a542e757aea3"
+    documentation="CiVision Makelaar Landelijke Voorziening is onderdeel van pakket Makelaarsuite. De actuele versienummers zijn daar opgenomen.&#xA;De overheid heeft een stelsel van Basisregistraties gedefinieerd die de kwaliteit van de gegevens moet waarborgen. De gegevens worden beschikbaar gesteld in de vorm van Landelijke Voorzieningen. Met het product CiVision Makelaar Landelijke Voorzieningen wordt functionaliteit ter beschikking gesteld die het mogelijk maakt de gegevens van Landelijke Voorzieningen te ontsluiten. Ook is voorzien in een mogelijkheid om terug te melden op de gegevens die worden ontsloten.&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="66d433a2-4bbc-453e-91cf-a542e757aea3"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl/beleidsterreinen/informatievoorziening/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

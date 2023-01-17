@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GML Viewer Versie 4.0"
+    id="id-6b384f26-e98c-4fdc-b299-f8cb3fd74458"
+    documentation="Documentatie pakketversie--->&#xA;Met de GML Viewer kunt u snel en eenvoudig IMRO2012, IMRO2008 en IMRO2006 bestemmingsplannen zonder conversie direct worden geopend en geraadpleegd. De GML Viewer kan ook IMGEO/BGT GML bestanden weergeven. De verbeelding is gebaseerd op SVBP2012 en SVBP2008 waarbij om de controle makkelijker te maken enkele elementen van de analoge verbeelding zijn toegevoegd aan het digitale beeld.  De viewer is zeer gebruikersvriendelijk. Met de viewer kan op gedeelten van de kaart ingezoomd worden. De informatie kan ook per planlaag of voor een aantal planlagen getoond worden. In de GML Viewer is een “zoek op adres” functie aanwezig zodat ook in grote plannen snel de gewenste locatie gevonden kan worden. Bestanden in DXF en ESRI shape formaat kunnen als ondergrond worden getoond. Ook ECW luchtfoto’s en WMS services, zoals die van RO-online, kunnen in de GML Viewer worden weergegeven.  Op een GML bestand kan “redlining” worden uitgevoerd. Opmerkingen over het GML-bestand worden opgeslagen in een apart bestand die door iedereen met een GMLviewer bekeken kan worden. De index met alle ruimtelijke plannen die gepubliceerd staat op RO-online kan met de GML viewer getoond worden. Er kan ook een selectie worden gemaakt uit deze lijst op basis van een aantal eigenschappen zoals CBS-code, IMRO norm en plantype. De aanwezige plannen op RO-online kunnen met de lijst direct worden geraadpleegd vanuit de viewer.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="6b384f26-e98c-4fdc-b299-f8cb3fd74458"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="Versie 4.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

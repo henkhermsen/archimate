@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DE REE Archiefsystemen"
+    id="id-251569247508c0f30e8f2b5a7b959b6f"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="251569247508c0f30e8f2b5a7b959b6f"/>
+</archimate:BusinessActor>

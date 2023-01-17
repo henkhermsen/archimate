@@ -1,0 +1,19 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="module Documentenuitvoer"
+    id="id-1958360f-116f-4625-b7fe-10bcb0849298"
+    documentation="Documencreatie oplossing voor Centric applicaties&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="1958360f-116f-4625-b7fe-10bcb0849298"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

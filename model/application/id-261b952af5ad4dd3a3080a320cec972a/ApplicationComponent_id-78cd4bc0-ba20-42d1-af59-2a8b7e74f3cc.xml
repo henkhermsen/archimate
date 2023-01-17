@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Active Directory (ADFS)"
+    id="id-78cd4bc0-ba20-42d1-af59-2a8b7e74f3cc"
+    documentation="Microsoft&#x9;Active Directory (ADFS)">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="78cd4bc0-ba20-42d1-af59-2a8b7e74f3cc"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Microsoft Active Directory (ADFS)"/>
+</archimate:ApplicationComponent>

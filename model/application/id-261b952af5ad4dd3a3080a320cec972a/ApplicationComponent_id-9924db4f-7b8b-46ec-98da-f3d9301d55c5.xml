@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geavanceerde elektronische handtekening SaaS Productieversie"
+    id="id-9924db4f-7b8b-46ec-98da-f3d9301d55c5"
+    documentation="Documentatie pakketversie--->&#xA;Een geavanceerde elektronische handtekening is een handtekening waarbij een certificaat is gebruikt. Een geavanceerde elektronische handtekening is juridisch gelijk aan een gewone handtekening mits de juiste identificatie is toegepast. Voor het ondertekenen van het document is niets anders nodig dan een device met internet toegang. &#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="9924db4f-7b8b-46ec-98da-f3d9301d55c5"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="SaaS Productieversie"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

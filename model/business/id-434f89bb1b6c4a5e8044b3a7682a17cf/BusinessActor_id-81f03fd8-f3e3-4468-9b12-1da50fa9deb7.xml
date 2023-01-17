@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Templafy"
+    id="id-81f03fd8-f3e3-4468-9b12-1da50fa9deb7">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="81f03fd8-f3e3-4468-9b12-1da50fa9deb7"/>
+  <properties
+      key="URL"
+      value="http://www.templafy.com/nl/"/>
+</archimate:BusinessActor>

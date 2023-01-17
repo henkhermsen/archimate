@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dataedo 8.1.4"
+    id="id-82f87801-f4e2-43e5-a4ca-07e3cdefb272-pv"
+    documentation="Catalog, document and understand your data with Data Dictionary, Business Glossary &amp; ERDs&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="82f87801-f4e2-43e5-a4ca-07e3cdefb272-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="8.1.4"/>
+  <properties
+      key="Omschrijving"
+      value="Catalog, document and understand your data with Data Dictionary, Business Glossary &amp; ERDs"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

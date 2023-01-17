@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VConsyst SPAAS Access Suite"
+    id="id-bc82a170-f9b1-44c9-90f9-6d229da779b2"
+    documentation="VConsyst SPAAS Access Suite">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="bc82a170-f9b1-44c9-90f9-6d229da779b2"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="VConsyst SPAAS Access Suite"/>
+</archimate:ApplicationComponent>

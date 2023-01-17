@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visma Roxit"
+    id="id-03723899-bb49-450c-8159-fbb54dc7c663">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="03723899-bb49-450c-8159-fbb54dc7c663"/>
+  <properties
+      key="URL"
+      value="https://www.roxit.nl"/>
+</archimate:BusinessActor>

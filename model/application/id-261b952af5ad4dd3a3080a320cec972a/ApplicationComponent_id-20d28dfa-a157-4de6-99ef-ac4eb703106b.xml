@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cipers iSeries"
+    id="id-20d28dfa-a157-4de6-99ef-ac4eb703106b"
+    documentation="Burgerzakenapplicatie, bevat functionaliteit voor:&#xD;&#xA;BRP-Administratie, &#xD;&#xA;Burgerlijke Stand (akten, latere vermeldingen, klapper),&#xD;&#xA;Reisdocumenten (aanvraag en uitgifte van reisdocumenten), &#xD;&#xA;Rijbewijzen (aanvraag en uitgifte van rijbewijzen), &#xD;&#xA;Verklaring Omtrent Gedrag (aanvraag VOG) ,&#xD;&#xA;Module Kwaliteit BRP,&#xD;&#xA;Module Statistiek (koppeling met SPSS), &#xD;&#xA;Burgerzakenloket (e-Formulieren),&#xD;&#xA;Kassakoppeling,&#xD;&#xA;Module Brondocumenten (opslaan van documenten nij de persoonslijst), &#xD;&#xA;Module Verkiezingen en Digitaal kiesregister,&#xD;&#xA;Raadplegen van de GBA-V (ook de detail PL en afnemerindicaties),&#xD;&#xA;Module SMS (Voor ophalen binnengekomen reisdocumenten en rijbewijzen,&#xD;&#xA;Dashboard applicatiebeheer,&#xD;&#xA;Koppeling met de portal Xpert Burgerzaken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="20d28dfa-a157-4de6-99ef-ac4eb703106b"/>
+  <properties
+      key="URL"
+      value="http://www.pinkroccadelocalgovernment.nl/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

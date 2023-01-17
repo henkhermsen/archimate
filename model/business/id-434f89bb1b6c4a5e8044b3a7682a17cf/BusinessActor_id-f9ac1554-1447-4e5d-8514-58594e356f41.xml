@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable U"
+    id="id-f9ac1554-1447-4e5d-8514-58594e356f41">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="f9ac1554-1447-4e5d-8514-58594e356f41"/>
+  <properties
+      key="URL"
+      value="http://www.enable-u.nl"/>
+</archimate:BusinessActor>

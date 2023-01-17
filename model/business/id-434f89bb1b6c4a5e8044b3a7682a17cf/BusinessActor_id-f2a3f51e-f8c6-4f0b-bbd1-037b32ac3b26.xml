@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stimulansz"
+    id="id-f2a3f51e-f8c6-4f0b-bbd1-037b32ac3b26">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="f2a3f51e-f8c6-4f0b-bbd1-037b32ac3b26"/>
+  <properties
+      key="URL"
+      value="http://www.stimulansz.nl/"/>
+</archimate:BusinessActor>

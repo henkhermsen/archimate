@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onegov 5.6"
+    id="id-ad0d0547-ae51-4175-8536-614ef4c1c2d1"
+    documentation="Documentatie pakketversie--->&#xA;ilionx helpt overheden met efficiënt digitaal (samen-)werken op basis van het Microsoft Office 365 platform. Of het nu gaat om ad-hoc samenwerkingen op documentniveau, projecten of zaakgericht werken. Door de slimme componenten die we aan het rijke platform hebben toegevoegd, wordt de gebruiker optimaal ondersteund en wordt voldaan aan relevante overheidsstandaarden.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="ad0d0547-ae51-4175-8536-614ef4c1c2d1"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="5.6"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

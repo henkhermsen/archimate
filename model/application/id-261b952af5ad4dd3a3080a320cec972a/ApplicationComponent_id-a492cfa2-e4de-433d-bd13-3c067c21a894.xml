@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsregister"
+    id="id-a492cfa2-e4de-433d-bd13-3c067c21a894"
+    documentation="Bedrijfsregister">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="a492cfa2-e4de-433d-bd13-3c067c21a894"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Bedrijfsregister"/>
+</archimate:ApplicationComponent>

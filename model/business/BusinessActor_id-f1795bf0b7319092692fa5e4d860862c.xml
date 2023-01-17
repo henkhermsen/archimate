@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nog bepalen"
+    id="id-f1795bf0b7319092692fa5e4d860862c"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="f1795bf0b7319092692fa5e4d860862c"/>
+</archimate:BusinessActor>

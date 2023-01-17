@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Newton Automation BV"
+    id="id-a138e7b5d476d53766332033a2a21af0"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="a138e7b5d476d53766332033a2a21af0"/>
+</archimate:BusinessActor>

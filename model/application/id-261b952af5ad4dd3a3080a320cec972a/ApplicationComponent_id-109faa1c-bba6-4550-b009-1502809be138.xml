@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable-U Digikoppeling 5.x"
+    id="id-109faa1c-bba6-4550-b009-1502809be138"
+    documentation="Documentatie pakketversie--->Versie 5 van de Enable-U Digikoppeling adapter is al sinds begin dit jaar gereleased. Hierin zijn performance verbeteringen in opgenomen, geavanceerde ondersteuning van meerdere protocollen (FTPS, SFTP, Secure SMTP, Jetsonic, EDI), vernieuwde webuserinterface en volledige ondersteuning voor digikoppeling ebMS berichtenverkeer voor de OLO, Digilevering, LV WOZ, Berichtenbox, Lopende Zaken, CORV, GGK, enz.&#xA;De Enable-U digikoppeling zorgt voor een snelle en eenvoudige implementatie van de Digikoppeling standaard. De Enable-U Digikoppeling werkt als een brievenbus. Alle midoffice en backoffice applicaties kunnen hun berichten aanbieden aan deze Digikoppelingadapter die het vervolgens verstuurd. In combinatie met Enable-U’s bewezen implementatie-strategie worden overheidsorganisaties snel, effectief en tegen lage kosten geholpen om aan te sluiten op landelijke voorzieningen. Na de eerste implementatie bent u in staat om zelfstandig het aantal digikoppelingen uit te breiden. Beheer en monitoring van het berichtenverkeer gaat eenvoudig via een webbased user interface.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="109faa1c-bba6-4550-b009-1502809be138"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="5.x"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

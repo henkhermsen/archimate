@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite4Zorg 9"
+    id="id-75089593-8f0b-4e2a-adc0-f873c467ffab"
+    documentation="Documentatie pakketversie--->&#xA;De Suite4Zorg bestaat uit Key2Wmo, Key2Stadspas en Key2Inkomensbeheer. Key2Wmo ondersteunt gemeenten bij contactregistratie, onderzoek, besluitvorming en administratie van de zorg. Key2Wmo werkt met landelijke standaarden zoals het iWmo-berichtenverkeer, SVB-aanleveringen voor het indiceren van een persoonsgebonden budget (PGB) en de communicatie met het CAK ten behoeve van de eigen bijdrage. Met onze applicaties is het mogelijk om meerdere gemeenten te faciliteren in het uitvoeren van de zorg.&#xA;&#xA;Key2Stadspas ondersteunt gemeenten in de uitvoering van stadspasregelingen. Zowel het aanvragen van een stadspas als de productafname van een budget kan volledig automatisch.&#xA;&#xA;Naast de bovenstaande domeinspecifieke functionaliteit ondersteunen de applicaties van de Suite4Zorg ook de basisfuncties die een essentieel onderdeel zijn van de bedrijfsvoering:&#xA;•&#x9;Gegevensuitwisseling: koppelingen op basis van landelijke standaarden&#xA;•&#x9;Zaakgericht werken: verbetering van de dienstverlening aan de burger en documenten zaakgericht opslaan&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="75089593-8f0b-4e2a-adc0-f873c467ffab"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="9"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

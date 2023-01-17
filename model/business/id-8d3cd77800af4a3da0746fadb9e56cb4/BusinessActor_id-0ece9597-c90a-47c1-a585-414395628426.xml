@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RUD Limburg-Noord"
+    id="id-0ece9597-c90a-47c1-a585-414395628426">
+  <properties
+      key="SWC type"
+      value="Samenwerkingsverband"/>
+  <properties
+      key="Object ID"
+      value="0ece9597-c90a-47c1-a585-414395628426"/>
+  <properties
+      key="Type"
+      value="Omgevingsdienst"/>
+</archimate:BusinessActor>

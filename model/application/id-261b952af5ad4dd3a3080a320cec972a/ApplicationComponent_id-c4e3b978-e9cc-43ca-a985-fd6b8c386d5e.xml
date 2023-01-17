@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verint Express (voorheen KANA Express) 15.1"
+    id="id-c4e3b978-e9cc-43ca-a985-fd6b8c386d5e"
+    documentation="Documentatie pakketversie--->&#xA;Verint Express heeft betrekking op alle klantervaringen en biedt een unieke combinatie&#xD;&#xA;van kennis, zoekfunctionaliteiten, integratie en business process management. Met Verint&#xD;&#xA;Express heeft u snel en betaalbaar toegang tot cloudbased, multichannel klantenservice en&#xD;&#xA;contactcenter-technologie. Onze klantenservice totaaloplossing omvat onder andere Email,&#xD;&#xA;Call en Whitemail Management, Web Self-Service en Live Chat. U kunt alle klantcontacten&#xD;&#xA;eenvoudig beheren vanuit één enkel platform en hierdoor zorgen voor een consistente&#xD;&#xA;afhandeling via alle klantcontactkanalen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="c4e3b978-e9cc-43ca-a985-fd6b8c386d5e"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="15.1"/>
+  <properties
+      key="Gebruik status"
+      value="Gepland"/>
+  <properties
+      key="Gebruik datum"
+      value="19-02-2019"/>
+</archimate:ApplicationComponent>

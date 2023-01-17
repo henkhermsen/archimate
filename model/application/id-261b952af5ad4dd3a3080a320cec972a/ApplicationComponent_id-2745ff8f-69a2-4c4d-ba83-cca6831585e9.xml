@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embrace Social"
+    id="id-2745ff8f-69a2-4c4d-ba83-cca6831585e9"
+    documentation="Maak kennis met de digitale werkplek van morgen. Embrace Social is een online samenwerk-omgeving. Het is de basis voor een social intranet. Via dit platform verbinden we mensen met ideeën, kennis en informatie, zodat ze slimmer kunnen werken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="2745ff8f-69a2-4c4d-ba83-cca6831585e9"/>
+  <properties
+      key="URL"
+      value="https://www.embracecloud.nl/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

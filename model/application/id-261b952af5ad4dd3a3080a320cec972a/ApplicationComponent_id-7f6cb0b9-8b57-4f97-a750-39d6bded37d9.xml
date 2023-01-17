@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedWion 3.0"
+    id="id-7f6cb0b9-8b57-4f97-a750-39d6bded37d9"
+    documentation="Documentatie pakketversie--->...&#xA;NedGraphics biedt met NedWion een volledige, op architectuur gebaseerde oplossing voor alle aspecten van de WION (Wet informatie-uitwisseling ondergrondse netten) . Hieronder valt onder andere; het opbouwen en beheren van Kabel- en Leidinggegevens conform IMKL, het raadplegen van die gegevens via intra- of internet of de aansluiting op Kadaster KLIC-online. Afhankelijk van de eisen en wensen kan de WION-omgeving minimaal of juist heel uitgebreid worden vormgegeven. NedWion archiveert desgewenst automatisch alle graafberichten die zijn aangemaakt en verzonden naar KLIC-online. Dit KLIC-archief kunt u direct in de GIS-viewer NedBrowser raadplegen.&#xD;&#xA;&#xD;&#xA;NedWION is opgevolgd door NedWIBON: https://www.softwarecatalogus.nl/pakket/nedwibon&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="7f6cb0b9-8b57-4f97-a750-39d6bded37d9"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="3.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brink Groep/Ibis"
+    id="id-54daea62a38fd6cd54a273dcab397ac5"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="54daea62a38fd6cd54a273dcab397ac5"/>
+</archimate:BusinessActor>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exact Online"
+    id="id-69b23b7b-0e01-4419-9f45-885fad960fef"
+    documentation="Exact Online">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="69b23b7b-0e01-4419-9f45-885fad960fef"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Exact Online"/>
+</archimate:ApplicationComponent>

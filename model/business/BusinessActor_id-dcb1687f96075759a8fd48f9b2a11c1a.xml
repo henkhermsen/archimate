@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Matrix Software"
+    id="id-dcb1687f96075759a8fd48f9b2a11c1a"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="dcb1687f96075759a8fd48f9b2a11c1a"/>
+</archimate:BusinessActor>

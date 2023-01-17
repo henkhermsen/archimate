@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedBRK"
+    id="id-12367a60-ba77-43ac-926d-297c18c85b08"
+    documentation="NedBRK kan worden aangesloten op de afgifteservice van het Kadaster (GDS2). NedBRK haalt de BRK Mutatieleveringen bij het Kadaster op en verwerkt deze in een eigen database (Oracle of PostgreSQL). Van hieruit kan NedMagazijn gevoed worden en actuele kadastrale gegevens getoond worden in de GIS-viewers NedBrowser en NedGlobe. &#xD;&#xA;Uiteraard kan NedBRK ook BRK Standleveringen verwerken, welke geladen kunnen worden in NedMagazijn.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="12367a60-ba77-43ac-926d-297c18c85b08"/>
+  <properties
+      key="URL"
+      value="https://www.cadac.com/nedbrk/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

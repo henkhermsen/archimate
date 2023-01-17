@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procura Verkiezingen"
+    id="id-a86b6687-fae6-4ed2-be6c-63a098253d7a"
+    documentation="Voor verkiezingen ontzorgt Procura gemeenten met de toekomstbestendige applicatie ‘Procura Verkiezingen’ en alle andere fysieke benodigdheden. De applicatie ondersteunt de ambtenaar voor, tijdens en na de verkiezingen en laat overzichtelijk de benodigde correspondentie, officiële modellen en openbare kennisgevingen zien. Tevens ondersteunt het de aanmelding en indeling van stembureauleden en biedt het een app voor communicatie tussen de stembureaus en de gemeente&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="a86b6687-fae6-4ed2-be6c-63a098253d7a"/>
+  <properties
+      key="URL"
+      value="https://www.procura.nl/verkiezingen/software/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

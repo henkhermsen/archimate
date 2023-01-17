@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedGeomagazijn"
+    id="id-45a20555-b8ee-455f-8459-a087098973f4"
+    documentation="NedGeomagazijn is een gegevensmagazijn, bedoeld om geometrische en administratieve gegevens uit bronsystemen op een gecontroleerde manier op te halen, op te slaan, bij te houden en aan te bieden aan andere systemen en processen. Hierbij moet worden gedacht aan bijv. een GIS viewer als NedBrowser. De informatie kan op diverse manier worden verkregen. Daar waar een standaard koppelvlak beschikbaar is, wordt gebruik gemaakt van StUF technologie. Voor die registraties waarvoor geen standaard koppelvlak beschikbaar is, wordt gewerkt met laadacties. NedGeomagazijn is in breder perspectief onderdeel van het MidOffice (NORA, Nederlandse Overheid Referentie Architectuur) concept en is RSGB compliant.&#xD;&#xA;NedGeomagazijn is overgegaan in NedMagazijn: https://www.softwarecatalogus.nl/pakket/nedmagazijn-basis&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="45a20555-b8ee-455f-8459-a087098973f4"/>
+  <properties
+      key="URL"
+      value="https://www.softwarecatalogus.nl/pakket/nedmagazijn-basis"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

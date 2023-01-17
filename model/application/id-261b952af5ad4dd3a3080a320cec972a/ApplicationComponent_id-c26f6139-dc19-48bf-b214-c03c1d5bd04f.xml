@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MicroSoft Azure Active Directory"
+    id="id-c26f6139-dc19-48bf-b214-c03c1d5bd04f"
+    documentation="MicroSoft Azure Active Directory">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="c26f6139-dc19-48bf-b214-c03c1d5bd04f"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="MicroSoft Azure Active Directory"/>
+</archimate:ApplicationComponent>

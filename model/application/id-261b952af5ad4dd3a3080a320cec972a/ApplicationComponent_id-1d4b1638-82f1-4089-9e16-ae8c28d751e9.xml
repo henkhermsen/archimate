@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC-Personeelsplanning 2.14"
+    id="id-1d4b1638-82f1-4089-9e16-ae8c28d751e9"
+    documentation="Documentatie pakketversie--->Ga naar ons Klantenportaal voor release notes en de release planning.&#xA;Om organisaties efficiënt en effectief te laten functioneren, is het inplannen van de personele bezetting van groot belang. Hierbij moet rekening gehouden met diverse randvoorwaarden die het plannen tot vakwerk maken, denk daarbij aan flexibele werktijden, persoonlijke voorkeuren ten aanzien van collega’s maar ook aan de fluctuerende hoeveelheid bezoekers. Om de juiste bezetting voor zowel de front- als de backoffice te realiseren, hebben roosteraars daarom meer dan ooit de behoefte aan software die hen helpt snel een optimale personeelsplanning op te stellen. JCC-Personeelsplanning is zo’n softwaretoepassing.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="1d4b1638-82f1-4089-9e16-ae8c28d751e9"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="2.14"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

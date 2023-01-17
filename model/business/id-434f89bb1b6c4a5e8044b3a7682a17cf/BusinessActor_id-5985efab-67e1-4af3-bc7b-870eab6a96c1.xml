@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Berkeley Bridge"
+    id="id-5985efab-67e1-4af3-bc7b-870eab6a96c1">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="5985efab-67e1-4af3-bc7b-870eab6a96c1"/>
+  <properties
+      key="URL"
+      value="http://www.berkeleybridge.nl/"/>
+</archimate:BusinessActor>

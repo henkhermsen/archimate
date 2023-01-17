@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedBrowser"
+    id="id-9b1edd3f-f5dd-4d42-b093-1a52b3bbbc56"
+    documentation="NedBrowser is een webapplicatie voor het ontsluiten van geo-data via intranet. Het product onderscheid zich van vergelijkbare applicaties door de flexibele beheeromgeving waarmee op eenvoudige manier het uiterlijk en de inhoud van de te verstrekken informatie aan de wensen van verschillende gebruikersgroepen is aan te passen. Daarnaast beschikt NedBrowser over de mogelijkheid om zelf verschillende datasets uit verschillende bronsystemen te koppelen en presenteren. In de beheer omgeving worden de koppelingen gelegd met het NedMagazijn en eventuele andere (externe) dataleveranciers.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="9b1edd3f-f5dd-4d42-b093-1a52b3bbbc56"/>
+  <properties
+      key="URL"
+      value="https://www.cadac.com/nedgraphics-nedbrowser/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

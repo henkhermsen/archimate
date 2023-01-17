@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GREX10 1.4"
+    id="id-3ccc5491-1dd4-470f-831c-66d4e742268d"
+    documentation="Documentatie pakketversie--->&#xA;GREX10 is de nieuwe generatie planeconomie-software van Sweco. GREX10 wordt gebruikt door o.a. planeconomen om grip op grondexploitatieprocessen te houden. De software is webbased en daarmee altijd en overal beschikbaar.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="3ccc5491-1dd4-470f-831c-66d4e742268d"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.4"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

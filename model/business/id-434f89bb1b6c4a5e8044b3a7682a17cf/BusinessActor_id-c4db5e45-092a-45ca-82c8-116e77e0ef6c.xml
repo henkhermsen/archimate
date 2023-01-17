@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vicrea"
+    id="id-c4db5e45-092a-45ca-82c8-116e77e0ef6c">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c4db5e45-092a-45ca-82c8-116e77e0ef6c"/>
+  <properties
+      key="URL"
+      value="https://www.vicrea.nl"/>
+</archimate:BusinessActor>

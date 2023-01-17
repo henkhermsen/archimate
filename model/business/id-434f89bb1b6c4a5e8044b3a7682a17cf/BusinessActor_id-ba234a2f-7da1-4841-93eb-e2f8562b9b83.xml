@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centric"
+    id="id-ba234a2f-7da1-4841-93eb-e2f8562b9b83">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ba234a2f-7da1-4841-93eb-e2f8562b9b83"/>
+  <properties
+      key="URL"
+      value="http://www.centric.eu/NL/Default/Branches/Lokale-overheid"/>
+</archimate:BusinessActor>

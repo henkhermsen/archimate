@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cipers iSeries 1.13.00"
+    id="id-fdee18d9-9ea3-4c41-8a80-f33a0831a3fa"
+    documentation="Documentatie pakketversie--->Release voor voorbereiding LO3.9.&#xA;Burgerzakenapplicatie, bevat functionaliteit voor:&#xD;&#xA;BRP-Administratie, &#xD;&#xA;Burgerlijke Stand (akten, latere vermeldingen, klapper),&#xD;&#xA;Reisdocumenten (aanvraag en uitgifte van reisdocumenten), &#xD;&#xA;Rijbewijzen (aanvraag en uitgifte van rijbewijzen), &#xD;&#xA;Verklaring Omtrent Gedrag (aanvraag VOG) ,&#xD;&#xA;Module Kwaliteit BRP,&#xD;&#xA;Module Statistiek (koppeling met SPSS), &#xD;&#xA;Burgerzakenloket (e-Formulieren),&#xD;&#xA;Kassakoppeling,&#xD;&#xA;Module Brondocumenten (opslaan van documenten nij de persoonslijst), &#xD;&#xA;Module Verkiezingen en Digitaal kiesregister,&#xD;&#xA;Raadplegen van de GBA-V (ook de detail PL en afnemerindicaties),&#xD;&#xA;Module SMS (Voor ophalen binnengekomen reisdocumenten en rijbewijzen,&#xD;&#xA;Dashboard applicatiebeheer,&#xD;&#xA;Koppeling met de portal Xpert Burgerzaken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="fdee18d9-9ea3-4c41-8a80-f33a0831a3fa"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.13.00"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

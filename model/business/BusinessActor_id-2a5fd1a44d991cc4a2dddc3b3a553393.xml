@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metalogix"
+    id="id-2a5fd1a44d991cc4a2dddc3b3a553393"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="2a5fd1a44d991cc4a2dddc3b3a553393"/>
+</archimate:BusinessActor>

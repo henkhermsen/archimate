@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAReL"
+    id="id-67e3a9cd-f69b-445e-baca-8e8bb42ec66b"
+    documentation="CAReL is de Centrale Administratie voor RMC en Leerplicht. Daarnaast kent CAReL een module voor Leerlingenvervoer. &#xA;&#xA;Het is een van de grootste applicaties van Eljakim IT. Door de verschillende klanten, verschillende werkwijzen, verschillende koppelingen en informatiestromen is het een grote uitdaging om die processen zo duidelijk mogelijk uit te werken en het geheel zo eenvoudig mogelijk te houden voor de gebruiker. &#xA;&#xA;CAReL is gebouwd rondom jongerendossiers, want jongeren staan centraal in het werk van de leerplichtambtenaar en RMC-medewerker. In CAReL komen meldingen binnen die bij de jongeren horen en opgepakt moeten worden door een medewerker. Verzuim, RMC, vrijstelling, vervoersdossier, proces verbaal, er zijn veel verschillende aspecten die geregistreerd moeten worden. Zo secuur mogelijk, want er zijn talloze rapportages die moeten worden ingediend bij de overheid. &#xA;&#xA;Een deel van de informatie in CAReL wordt binnengehaald of verstuurd middels koppelingen. Het verzuimloket, DUO, BRP, SUWI, Verwijsindex, StUF-koppeling, het zijn allemaal extra factoren die voor een zo compleet mogelijk jongerendossier zorgen. &#xA;&#xA;Er moet verantwoording afgelegd worden op basis van de gegevens die zijn ingevoerd, dus het systeem moet zo goed mogelijk aansluiten bij de workflow van de ambtenaren die de applicatie gebruiken. Door instellingen, validatieregels en automatische werkprocessen wordt er voor elke individuele gemeente zo veel mogelijk gezorgd voor een applicatie die dingen afdwingt waar moet en vrijheid geeft waar gewenst is. &#xA;&#xA;Daarnaast speelt er op dit gebied natuurlijk ook mee dat er wets- of beleidswijzigingen plaatsvinden waar de applicatie zich aan moet houden. CAReL heeft dan ook een team dat de materie door en door kent, actief op zoek gaat naar wijzigingen en verbeteringen en als adviserende partij optreedt indien nodig. De gedachte van Eljakim IT is dat een aansluitend systeem niet haalbaar is zonder deze uitgebreide kennis over de doelgroep en gebruiker.&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="67e3a9cd-f69b-445e-baca-8e8bb42ec66b"/>
+  <properties
+      key="URL"
+      value="https://www.eljakim.nl/project/carel/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

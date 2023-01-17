@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procura Verkiezingen G-15.00"
+    id="id-0fe1438a-553b-4d0c-8e0e-ab1029232e11"
+    documentation="Documentatie pakketversie--->De versie ten behoeve van de verkiezingen voor provinciale staten 2015 en Waterschappen 2015&#xA;Voor verkiezingen ontzorgt Procura gemeenten met de toekomstbestendige applicatie ‘Procura Verkiezingen’ en alle andere fysieke benodigdheden. De applicatie ondersteunt de ambtenaar voor, tijdens en na de verkiezingen en laat overzichtelijk de benodigde correspondentie, officiële modellen en openbare kennisgevingen zien. Tevens ondersteunt het de aanmelding en indeling van stembureauleden en biedt het een app voor communicatie tussen de stembureaus en de gemeente&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="0fe1438a-553b-4d0c-8e0e-ab1029232e11"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="G-15.00"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

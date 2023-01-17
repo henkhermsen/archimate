@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBabs"
+    id="id-3c8065eb-cd41-494e-8763-df00d8449f6a">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="3c8065eb-cd41-494e-8763-df00d8449f6a"/>
+  <properties
+      key="URL"
+      value="https://www.ibabs.eu"/>
+</archimate:BusinessActor>

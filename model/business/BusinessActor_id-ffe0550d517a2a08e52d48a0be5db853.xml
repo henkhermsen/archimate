@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unexus"
+    id="id-ffe0550d517a2a08e52d48a0be5db853"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ffe0550d517a2a08e52d48a0be5db853"/>
+</archimate:BusinessActor>

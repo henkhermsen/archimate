@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Centric Objectregistratie / (Key2)Percelen 9.1."
+    id="id-32a009b0-37be-4a0f-bcfc-0b5b960404ab"
+    documentation="Documentatie pakketversie--->&#xA;Centric Objectregistratie / (Key2)Percelen is de oplossing om de gegevens en geografie uit de basisregistratie Kadaster binnen uw organisatie te gebruiken. Key2Percelen koppelt met de landelijke basisregistratie en helpt u om de BRK-informatie te beheren en te raadplegen. De Centric oplossingen voor WOZ, Waarderen, Belastingen en VTH gebruiken Key2Percelen voor hun perceelgegevens. Het Kadaster zet perceelmutaties voor u klaar, waarna Key2Percelen deze vrijwel direct automatisch overhaalt naar uw organisatie, zodat u deze ook direct beschikbaar heeft binnen uw Centric oplossingen.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="32a009b0-37be-4a0f-bcfc-0b5b960404ab"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="9.1."/>
+  <properties
+      key="Gebruik status"
+      value="Gepland"/>
+  <properties
+      key="Gebruik datum"
+      value="25-03-2019"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enable-U Digikoppeling"
+    id="id-425e8804-620c-41d4-8cf9-32fda8059ae2"
+    documentation="De Enable-U digikoppeling zorgt voor een snelle en eenvoudige implementatie van de Digikoppeling standaard. De Enable-U Digikoppeling werkt als een brievenbus. Alle midoffice en backoffice applicaties kunnen hun berichten aanbieden aan deze Digikoppelingadapter die het vervolgens verstuurd. In combinatie met Enable-U’s bewezen implementatie-strategie worden overheidsorganisaties snel, effectief en tegen lage kosten geholpen om aan te sluiten op landelijke voorzieningen. Na de eerste implementatie bent u in staat om zelfstandig het aantal digikoppelingen uit te breiden. Beheer en monitoring van het berichtenverkeer gaat eenvoudig via een webbased user interface.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="425e8804-620c-41d4-8cf9-32fda8059ae2"/>
+  <properties
+      key="URL"
+      value="http://www.enable-u.nl/oplossingen/enable-u-digikoppeling.htm"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

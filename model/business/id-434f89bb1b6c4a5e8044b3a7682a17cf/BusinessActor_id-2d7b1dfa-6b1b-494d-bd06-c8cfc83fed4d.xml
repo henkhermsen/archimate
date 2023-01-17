@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GemeenteOplossingen"
+    id="id-2d7b1dfa-6b1b-494d-bd06-c8cfc83fed4d">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="2d7b1dfa-6b1b-494d-bd06-c8cfc83fed4d"/>
+  <properties
+      key="URL"
+      value="http://www.gemeenteoplossingen.nl"/>
+</archimate:BusinessActor>

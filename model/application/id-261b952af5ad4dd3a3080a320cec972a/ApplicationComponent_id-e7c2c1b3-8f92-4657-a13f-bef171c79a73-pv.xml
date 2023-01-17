@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cardaccess 4000 4000"
+    id="id-e7c2c1b3-8f92-4657-a13f-bef171c79a73-pv"
+    documentation="Toegangs controle">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="e7c2c1b3-8f92-4657-a13f-bef171c79a73-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="4000"/>
+  <properties
+      key="Omschrijving"
+      value="Toegangs controle"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

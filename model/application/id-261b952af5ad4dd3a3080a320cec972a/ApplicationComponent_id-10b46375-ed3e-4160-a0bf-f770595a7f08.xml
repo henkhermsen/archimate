@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedrijfsregister_venlo"
+    id="id-10b46375-ed3e-4160-a0bf-f770595a7f08"
+    documentation="Bedrijfsregister Venlo">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="10b46375-ed3e-4160-a0bf-f770595a7f08"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Bedrijfsregister Venlo"/>
+</archimate:ApplicationComponent>

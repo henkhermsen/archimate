@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Renewi portaal"
+    id="id-261f45bd-3633-4303-9837-da260ccc64a0"
+    documentation="Renewi portaal">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="261f45bd-3633-4303-9837-da260ccc64a0"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Renewi portaal"/>
+</archimate:ApplicationComponent>

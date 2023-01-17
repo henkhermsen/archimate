@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eljakim IT"
+    id="id-9d6d4b9b-4e64-4f74-9753-c0116c3973ef">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="9d6d4b9b-4e64-4f74-9753-c0116c3973ef"/>
+  <properties
+      key="URL"
+      value="https://www.eljakim.nl"/>
+</archimate:BusinessActor>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC Software"
+    id="id-78e30ba8-ed08-4240-bb72-c7b7fa9febfc">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="78e30ba8-ed08-4240-bb72-c7b7fa9febfc"/>
+  <properties
+      key="URL"
+      value="http://www.jccsoftware.nl/"/>
+</archimate:BusinessActor>

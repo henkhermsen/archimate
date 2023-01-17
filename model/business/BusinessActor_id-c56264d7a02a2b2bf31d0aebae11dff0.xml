@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BRIS"
+    id="id-c56264d7a02a2b2bf31d0aebae11dff0"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c56264d7a02a2b2bf31d0aebae11dff0"/>
+</archimate:BusinessActor>

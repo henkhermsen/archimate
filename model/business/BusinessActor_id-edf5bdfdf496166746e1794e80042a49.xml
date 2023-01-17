@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEP"
+    id="id-edf5bdfdf496166746e1794e80042a49"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="edf5bdfdf496166746e1794e80042a49"/>
+</archimate:BusinessActor>

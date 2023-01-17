@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suite4Jeugdzorg 20"
+    id="id-4f966f9a-6b21-4ab3-9b53-94766f2afe7b"
+    documentation="Documentatie pakketversie--->Met de Key2Jeugdwet beschikt u over de volgende onderdelen: • processturing van intake tot nazorg • de administratie van jeugdzorg • het vastleggen van contracten met zorginstellingen • de financiële afhandeling met deze instellingen • budgetbewaking en verantwoordingsondersteuning • ondersteuning van landelijke standaarden, zoals de aansluiting op de Collectieve Routeervoorziening (CORV) • ondersteuning van het landelijke iJW- standaard berichtenverkeer voor de Jeugdzorg &#xA;De nieuwe Jeugdwet maakt gemeenten financieel en bestuurlijk verantwoordelijk voor de jeugdzorg. Daarnaast gaan de bezuinigingsmaatregelen binnen de jeugdzorg niet aan gemeenten voorbij. Dit maakt het efficiënt vastleggen van processen en gegevens noodzakelijk. De Suite4Jeugdzorg biedt hiervoor ondersteuning bij het uitvoeren van de jeugdzorgtaken. &#xA;&#xA;De Suite4Jeugdzorg bevat de volgende onderdelen: &#xA;- processturing van intake tot nazorg &#xA;- de administratie van jeugdzorg &#xA;- het vastleggen van contracten met zorginstellingen &#xA;- de financiële afhandeling met deze instellingen &#xA;- budgetbewaking en verantwoordingsondersteuning &#xA;- ondersteuning van landelijke standaarden, zoals de aansluiting op de Collectieve Routeervoorziening (CORV) &#xA;- ondersteuning van het landelijke iJw-berichtenverkeer voor de jeugdzorg &#xA;&#xA;Bij samenwerking in de keten en het ophalen van al geregistreerde informatie, sluit de Suite4Jeugdzorg naadloos aan op de Suite4Sociale Regie en de Suites voor Werk en Inkomen, Zorg en Onderwijs.&#xA;&#xA;Naast de bovenstaande domeinspecifieke functionaliteit ondersteunen de applicaties van de Suite4Zorg ook de basisfuncties die een essentieel onderdeel zijn van de bedrijfsvoering:&#xA;•&#x9;Gegevensuitwisseling: koppelingen op basis van landelijke standaarden&#xA;•&#x9;Zaakgericht werken: verbetering van de dienstverlening aan de burger en documenten zaakgericht opslaan&#xA;•&#x9;Veilige gegevensuitwisseling: privacy en aandacht voor informatiebeveiliging en autorisatie&#xA;•&#x9;Workflow: oog voor goede procesondersteuning&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="4f966f9a-6b21-4ab3-9b53-94766f2afe7b"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="20"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

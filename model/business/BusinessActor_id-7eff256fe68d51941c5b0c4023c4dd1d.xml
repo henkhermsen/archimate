@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aareon"
+    id="id-7eff256fe68d51941c5b0c4023c4dd1d"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="7eff256fe68d51941c5b0c4023c4dd1d"/>
+</archimate:BusinessActor>

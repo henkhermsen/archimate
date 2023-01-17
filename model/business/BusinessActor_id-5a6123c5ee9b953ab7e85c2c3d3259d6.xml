@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MicroSoft"
+    id="id-5a6123c5ee9b953ab7e85c2c3d3259d6"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="5a6123c5ee9b953ab7e85c2c3d3259d6"/>
+</archimate:BusinessActor>

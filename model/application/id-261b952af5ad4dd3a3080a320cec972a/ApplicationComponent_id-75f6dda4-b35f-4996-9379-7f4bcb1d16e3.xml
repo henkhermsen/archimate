@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2GBA-V 02.12"
+    id="id-75f6dda4-b35f-4996-9379-7f4bcb1d16e3"
+    documentation="Documentatie pakketversie--->&#xA;Raadpleegapplicatie voor de GBA-V&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="75f6dda4-b35f-4996-9379-7f4bcb1d16e3"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="02.12"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

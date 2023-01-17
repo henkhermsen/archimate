@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neuron WKPB"
+    id="id-18ae9e38-6201-425b-925c-e79f44ac15be"
+    documentation="Gemeenten hebben de plicht publiekrechtelijke beperkingen te registreren en derden te informeren over deze beperkingen. De Wet Publiekrechtelijke Beperkingen (Wkpb) bepaalt welke gegevens moeten vastgelegd en wanneer deze moeten worden gecommuniceerd. Neuron Wkpb is uitermate geschikt om aan de Wkpb-verplichtingen te voldoen.&#xA;&#xA;Beperkingen registreren en beschikbaar stellen&#xA;&#xA;Op een gebruiksvriendelijke manier kunnen beperkingen moeiteloos worden geregistreerd en beschikbaar worden gesteld aan het Kadaster en derden. In de applicatie zijn alle relevante juridische kaders opgenomen. Hieronder vallen de verschillende type beperkingen, de grondslagen en het type besluit. Opleggende, beëindigende, verlengende en wijzigende besluiten worden in onderlinge samenhang geregistreerd, inclusief mogelijke mutaties naar aanleiding van bezwaar en beroep. &#xA;&#xA;Daarnaast is het mogelijk beperkingen te registeren die (nog) geen deel uitmaken van de vastgestelde beperkingen in het kader van de Wkpb. Deze beperkingen kunnen dan wel binnen de gemeentelijke administratie centraal geregistreerd worden maar worden niet verzonden naar de LV. De software ondersteunt hiermee op optimale wijze de beperkingenregistratie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="18ae9e38-6201-425b-925c-e79f44ac15be"/>
+  <properties
+      key="URL"
+      value="http://www.vicrea.nl/producten/neuron-registratie/producten/neuron-wkpb/overzicht/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sdu"
+    id="id-7895810f-94c9-4a8d-a9ef-c87f69d52e89">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="7895810f-94c9-4a8d-a9ef-c87f69d52e89"/>
+  <properties
+      key="URL"
+      value="https://www.sdu.nl/overheid/producten-diensten/vind-gemeenten"/>
+</archimate:BusinessActor>

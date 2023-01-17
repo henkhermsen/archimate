@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unexus Omnichannel Contact Center"
+    id="id-1c750589-5c5d-4b34-b990-b6fc489dc0ce"
+    documentation="Unexus Omnichannel Contact Center">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="1c750589-5c5d-4b34-b990-b6fc489dc0ce"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Unexus Omnichannel Contact Center"/>
+</archimate:ApplicationComponent>

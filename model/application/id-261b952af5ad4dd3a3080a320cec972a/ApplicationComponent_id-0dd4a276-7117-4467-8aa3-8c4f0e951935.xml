@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="siteimprove"
+    id="id-0dd4a276-7117-4467-8aa3-8c4f0e951935"
+    documentation="siteimprove">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="0dd4a276-7117-4467-8aa3-8c4f0e951935"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="siteimprove"/>
+</archimate:ApplicationComponent>

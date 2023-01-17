@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Key2Datadistributie 2.30"
+    id="id-115c94d6-4769-43e7-91be-0124ea2f997d"
+    documentation="Documentatie pakketversie--->&#xA;Key2Datadistributie zorgt voor betrouwbare gegevensuitwisseling binnen de decentrale overheid. Feilloos koppelen met basisregistraties, procesapplicaties en Landelijke Voorzieningen; altijd actuele gegevens en terugmelden voor optimale kwaliteit. Met de nieuwste standaarden, die aansluiten bij de API-strategie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="115c94d6-4769-43e7-91be-0124ea2f997d"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="2.30"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOPdesk"
+    id="id-d13bbf78-9e1d-424b-81db-efb2d0ebc186">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="d13bbf78-9e1d-424b-81db-efb2d0ebc186"/>
+  <properties
+      key="URL"
+      value="http://www.topdesk.nl/"/>
+</archimate:BusinessActor>

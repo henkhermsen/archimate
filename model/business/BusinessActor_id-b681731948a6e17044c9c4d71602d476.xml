@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Axxerion"
+    id="id-b681731948a6e17044c9c4d71602d476"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="b681731948a6e17044c9c4d71602d476"/>
+</archimate:BusinessActor>

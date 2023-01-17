@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7-zip"
+    id="id-e1d78781-00a3-4dfd-877c-df4b5b8421ce"
+    documentation="7-Zip is een computerprogramma om bestanden te archiveren en comprimeren. 7-Zip wordt geschreven in C++ voor Windows. De broncode van het programma is vrij beschikbaar onder de voorwaarden van de LGPL, dit in tegenstelling tot die van sharewareprogramma's als WinZip en WinRAR">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="e1d78781-00a3-4dfd-877c-df4b5b8421ce"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="7-Zip is een computerprogramma om bestanden te archiveren en comprimeren. 7-Zip wordt geschreven in C++ voor Windows. De broncode van het programma is vrij beschikbaar onder de voorwaarden van de LGPL, dit in tegenstelling tot die van sharewareprogramma's als WinZip en WinRAR"/>
+</archimate:ApplicationComponent>

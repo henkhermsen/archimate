@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TopoCAD 9.11"
+    id="id-92d7d0a8-616f-4867-b6e6-3dd3137f5e18"
+    documentation="Documentatie pakketversie--->Highlights van deze release:&#xA;•      Ondersteuning AutoCAD 2020&#xA;•      Vervallen ondersteuning AutoCAD 2016&#xA;•      Nieuwe versienummer van licenties toegepast.&#xA;•      Controle op bronhouder bij tekenen en wijzigen van objecten.&#xA;•      Mogelijkheid om in bulk werkvoorraadmeldingen af te handelen&#xA;•      Diverse wensen en verbeteringen doorgevoerd.&#xA;&#xA;TopoCAD is een op AutoCAD Map/AutoCAD Civil gebaseerde applicatie voor beheer en bijhouding van geodata, die speciaal is ontwikkeld voor de Nederlandse markt. Zo is de applicatie geschikt om te werken volgens verschillende standaard informatiemodellen, zoals BAG en BGT/IMGeo. TopoCAD is modulair opgebouwd en kan, naar behoefte, met specifieke functionaliteit (bijv. vlakvormen of thematiseren) worden uitgebreid. TopoCAD past naadloos in de NedBGT suite van NedGraphics en is een ideale werkomgeving voor het opbouwen en beheren van de Basisregistratie Grootschalige Topografie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="92d7d0a8-616f-4867-b6e6-3dd3137f5e18"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="9.11"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

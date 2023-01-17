@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NedBRK 4.0"
+    id="id-f5045f58-2e81-403e-8465-764bfd268460"
+    documentation="Documentatie pakketversie--->2022 Is een transitiejaar, waarin de BRK Levering 1.0 wordt uitgefaseerd en u gebruik kunt gaan maken van de verbeterde BRK Levering 2.0 van Het Kadaster. Met NedBRK van Cadac Group kunt u op gestandaardiseerde wijze de BRK Levering 2.0 inlezen ten behoeve van diverse werkprocessen.&#xA;&#xA;NedBRK kan worden aangesloten op de afgifteservice van het Kadaster of op uw Enterprise servicebus. NedBRK haalt de BRK Mutatieleveringen bij het Kadaster op en verwerkt deze in een eigen database. Van hieruit kunt u ook NedMagazijn voeden en actuele kadastrale gegevens tonen in de GIS-viewers NedBrowser en NedGlobe en in bulk bevragen.  &#xA;&#xA;Uiteraard kan NedBRK ook BRK Standleveringen verwerken, welke geladen kunnen worden in NedMagazijn.&#xA;NedBRK kan worden aangesloten op de afgifteservice van het Kadaster (GDS2). NedBRK haalt de BRK Mutatieleveringen bij het Kadaster op en verwerkt deze in een eigen database (Oracle of PostgreSQL). Van hieruit kan NedMagazijn gevoed worden en actuele kadastrale gegevens getoond worden in de GIS-viewers NedBrowser en NedGlobe. &#xD;&#xA;Uiteraard kan NedBRK ook BRK Standleveringen verwerken, welke geladen kunnen worden in NedMagazijn.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="f5045f58-2e81-403e-8465-764bfd268460"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="4.0"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

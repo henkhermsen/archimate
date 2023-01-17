@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bentis B.V."
+    id="id-9a1d2b82-5d10-49c1-b448-72e50bfe87ba">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="9a1d2b82-5d10-49c1-b448-72e50bfe87ba"/>
+  <properties
+      key="URL"
+      value="https://www.bentis.nl"/>
+</archimate:BusinessActor>

@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WIZportaal"
+    id="id-81b4eb34-02fe-494b-99a0-7e32781185b4"
+    documentation="De gemeente vervult sinds 1 januari 2015 de centrale regierol in het bieden van ondersteuning aan kwetsbare groepen binnen de samenleving. Deze regierol vergt een andere manier van werken waarin intensieve samenwerking tussen alle betrokken partijen in de keten (gemeenten, maatschappelijk werk, zorg- en welzijn, werkgevers etc) centraal staat.&#xD;&#xA;&#xD;&#xA;Deze intensieve samenwerking stelt ook andere eisen aan de automatisering. Solviteers heeft hiervoor een platform ontwikkeld dat alle betrokken partijen optimaal ondersteunt en met elkaar verbindt. WIZportaal is een moderne, nieuwe softwareoplossing die op eenvoudige wijze interactie mogelijk maakt tussen cliënt, consulent en ketenpartners. Een oplossing die de zelfredzaamheid van de burger stimuleert en op het juiste moment in contact brengt met de juiste interventies. Een applicatie van, met en voor burgers met enkelvoudige en meervoudige problematiek, zowel voor werk als (jeugd) zorg waarmee een integraal klantbeeld gevormd kan worden.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="81b4eb34-02fe-494b-99a0-7e32781185b4"/>
+  <properties
+      key="URL"
+      value="http://www.wizportaal.nl"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

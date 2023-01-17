@@ -1,0 +1,26 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBurgerzaken Cloud"
+    id="id-f9add2fd-3014-4149-a07e-6d7de988d232"
+    documentation="Documentatie pakketversie--->Cloudversie 4.9.x&#xA;Zie releasebeschrijving 4.9  iBurgerzaken voor informatie over de inhoud van deze release.&#xA;&#xA;&#xA;De iBurgerzaken apps van PinkRoccade Publiekszaken zijn ontwikkeld vanuit de vraag van burgers en bedrijven: digitale dienstverlening, 24x7, vanaf elk gewenst apparaat en elke locatie. Met 159 gemeenten [red. sep 2020] kiezen al voor selfservice voor en door burgers en bedrijven. Dit leidt tot een werkdrukvermindering voor ambtenaren. In de praktijk blijkt dat gebruikers deze apps ervaren als gebruikersvriendelijk én als een verrijking van de gemeentelijke service. Met de juiste sturing worden selfservicepercentages boven de 90% behaald.&#xD;&#xA;&#xD;&#xA;Huidige versie is 3.9. Zie TopDeesk voor de releaseplanning van iBurgerzaken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="f9add2fd-3014-4149-a07e-6d7de988d232"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="Cloud"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+  <properties
+      key="Gebruik datum"
+      value="02-12-2016"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geluidbeheer"
+    id="id-afec0908-3ab0-44cb-9c5b-f0e3ffe57699"
+    documentation="Beheren van meetgegevens over geluid in de fysieke leefomgeving.">
+  <properties
+      key="Object ID"
+      value="afec0908-3ab0-44cb-9c5b-f0e3ffe57699"/>
+</archimate:BusinessFunction>

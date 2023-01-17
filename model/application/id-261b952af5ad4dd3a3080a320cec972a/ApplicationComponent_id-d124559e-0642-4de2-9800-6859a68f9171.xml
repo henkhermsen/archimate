@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neuron GIS"
+    id="id-d124559e-0642-4de2-9800-6859a68f9171"
+    documentation="Neuron GIS is een geavanceerde GIS (Geografisch Informatie Systeem) applicatie waarmee op een eenvoudige wijze managementrapportages en –analyses te ontwikkelen en overzichtelijk beschikbaar te stellen zijn. Met deze GIS applicatie kunt u alle mogelijke gegevens analyseren, visualiseren en krachtig communiceren, zowel via internet als intranet. Neuron GIS selecteert administratieve en geografische gegevens, filtert deze en presenteert het resultaat overzichtelijk in een kaart. De applicatie genereert overzichtelijke rapportages, die organisatiebreed zijn te raadplegen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="d124559e-0642-4de2-9800-6859a68f9171"/>
+  <properties
+      key="URL"
+      value="http://www.vicrea.nl/producten/neuron-gis/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

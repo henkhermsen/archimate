@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kiwa KOAC"
+    id="id-e838d1432c5858e430b72ffc6e78c0b4"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="e838d1432c5858e430b72ffc6e78c0b4"/>
+</archimate:BusinessActor>

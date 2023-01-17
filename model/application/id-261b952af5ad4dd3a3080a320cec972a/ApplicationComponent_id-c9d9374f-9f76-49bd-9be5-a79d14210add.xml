@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VIND-IM (i-Navigator, model-DSP) 3.2.0.95"
+    id="id-c9d9374f-9f76-49bd-9be5-a79d14210add"
+    documentation="Documentatie pakketversie--->Onderdeel van i-Navigator 3.2 RUP 7, zie https://i-navigator.bizzib.nl/release&#xA;VIND-IM (ook bekend onder de namen i-Navigator en model-DSP) stelt u in staat om de complete informatiehuishouding van uw organisatie centraal in kaart te brengen en te beheren. De informatiehuishouding – of informatiearchitectuur – vormt de schakel tussen de organisatiearchitectuur (processen en organisatie) en de technische architectuur (systemen en infrastructuur). VIND-IM bevat een complete modelbeschrijving van de gemeentelijke informatiehuishouding.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="c9d9374f-9f76-49bd-9be5-a79d14210add"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="3.2.0.95"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

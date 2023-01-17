@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ValidSign"
+    id="id-583b9937-a366-466d-872f-72cc67578056">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="583b9937-a366-466d-872f-72cc67578056"/>
+  <properties
+      key="URL"
+      value="www.validsign.nl"/>
+</archimate:BusinessActor>

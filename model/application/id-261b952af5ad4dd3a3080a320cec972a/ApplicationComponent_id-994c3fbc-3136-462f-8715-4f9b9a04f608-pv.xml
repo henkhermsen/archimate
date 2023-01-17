@@ -1,0 +1,22 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennisbank nakijken"
+    id="id-994c3fbc-3136-462f-8715-4f9b9a04f608-pv">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="994c3fbc-3136-462f-8715-4f9b9a04f608-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="nakijken"/>
+  <properties
+      key="Omschrijving"/>
+  <properties
+      key="Gebruik status"
+      value="Uitgefaseerd"/>
+</archimate:ApplicationComponent>

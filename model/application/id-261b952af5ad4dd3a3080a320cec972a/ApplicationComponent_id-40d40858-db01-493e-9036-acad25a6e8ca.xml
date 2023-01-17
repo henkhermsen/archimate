@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBI Bots"
+    id="id-40d40858-db01-493e-9036-acad25a6e8ca"
+    documentation="Zelf instelbare bot. Koppelbaar aan andere systemen. Herkent vrije tekst (chatbot, WhatsApp). Via website, mobile en social media.&#xD;&#xA;Deelnemende gemeenten ontwikkelen samen de content voor de bots.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="40d40858-db01-493e-9036-acad25a6e8ca"/>
+  <properties
+      key="URL"
+      value="https://www.obi4wan.com/nl/oplossingen/chatbots-ai-toepassingen/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,17 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d76b59a90f1da7eee05fdd847eadd3f3">
+  <properties
+      key="Object ID"
+      value="09951c12-d93b-fd35-64e5-ad876513befa"/>
+  <properties
+      key="Toelichting"
+      value="Deze relatie is afgeleid van de relatie van [[GEMMA2/0.9/id-eaf1f39f-4033-4d2f-85d7-a67a38e5e508]] met [[GEMMA2/0.9/id-c158d9fc-6421-4d8a-8b2e-eaa33f43ecf8]]."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1d73f304-c484-4243-82d8-598b6e622f7c.xml#id-1d73f304-c484-4243-82d8-598b6e622f7c"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-c158d9fc-6421-4d8a-8b2e-eaa33f43ecf8.xml#id-c158d9fc-6421-4d8a-8b2e-eaa33f43ecf8"/>
+</archimate:RealizationRelationship>

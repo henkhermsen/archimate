@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SubsidieVolgSysteem Inkomend"
+    id="id-1ef2c1cd-99da-4e43-ba48-9bc6aebd19e8"
+    documentation="Het SubsidieVolgSysteem is een uniek, gebruiksvriendelijke en webbased subsidiemanagement portal, waarmee uw organisatie grip krijgt op het totale proces voor al uw inkomende subsidies. Het SVS geeft een helder beeld van alle aangevraagde, beschikte en lopende subsidies. Managementinformatie over de subsidieresultaten en de mijlpalen in het subsidieproces is op elk gewenst moment beschikbaar. &#xD;&#xA;&#xD;&#xA;Het SubsidieVolgSysteem kent onder andere de volgende functionaliteiten:&#xD;&#xA;•&#x9;Dashboardfunctie biedt realtime inzicht in de subsidieresultaten;&#xD;&#xA;•&#x9;Registratie van alle programma’s waarvoor aanvragen in ontwikkeling zijn, ingediend, beschikt en afgewezen zijn;&#xD;&#xA;•&#x9;Registratie van projecten en deadlines waarvoor men in de toekomst subsidie wilt aanvragen;&#xD;&#xA;•&#x9;Monitoring van cruciale rapportagemomenten en taken in het subsidieproces via automatische meldingen;&#xD;&#xA;•&#x9;Genereren van managementrapportages over aangevraagde, beschikte en vastgestelde subsidies;&#xD;&#xA;•&#x9;Koppeling van alle relevante documentatie (projectaanvraag, beschikking, tussen- en eindrapportages etc.) zodat deze eenvoudig en snel op te roepen is;&#xD;&#xA;•&#x9;Veilige opslag van alle gegevens.&#xD;&#xA;&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="1ef2c1cd-99da-4e43-ba48-9bc6aebd19e8"/>
+  <properties
+      key="URL"
+      value="www.subsidievolgsysteem.nl"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

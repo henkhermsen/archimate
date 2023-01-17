@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MicroSoft Azure Active Directory 2022"
+    id="id-c26f6139-dc19-48bf-b214-c03c1d5bd04f-pv"
+    documentation="MicroSoft Azure Active Directory">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="c26f6139-dc19-48bf-b214-c03c1d5bd04f-pv"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Versieaanduiding"
+      value="2022"/>
+  <properties
+      key="Omschrijving"
+      value="MicroSoft Azure Active Directory"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

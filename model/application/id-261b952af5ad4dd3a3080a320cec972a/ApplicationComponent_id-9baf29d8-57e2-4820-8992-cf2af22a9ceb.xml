@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Neuron BAG"
+    id="id-9baf29d8-57e2-4820-8992-cf2af22a9ceb"
+    documentation="Neuron BAG is de meest gebruikte beheerapplicatie voor de BAG in Nederland (inmiddels circa 200 gemeenten). Met deze applicatie kunnen alle entiteiten en attributen van de Basisregistratie Adressen en Gebouwen worden geregistreerd aangevuld met alle relevante plusattributen en entiteiten uit het RSGB. Neuron BAG onderscheidt zich van andere applicaties door de volledige integratie tussen administratieve en geometrische kenmerken. De registratie van BAG objecten vindt plaats op basis van de gebeurtenissen zoals beschreven in het processenhandboek 2013. De software blinkt uit in de mogelijkheden om in bulk te muteren en op te voeren.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="9baf29d8-57e2-4820-8992-cf2af22a9ceb"/>
+  <properties
+      key="URL"
+      value="http://www.vicrea.nl/producten/neuron-registratie/producten/neuron-bag/overzicht/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GISkit"
+    id="id-c9d6f9fd-87b0-4ce7-95c9-0c4270baa822">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c9d6f9fd-87b0-4ce7-95c9-0c4270baa822"/>
+  <properties
+      key="URL"
+      value="http://www.giskit.nl/"/>
+</archimate:BusinessActor>

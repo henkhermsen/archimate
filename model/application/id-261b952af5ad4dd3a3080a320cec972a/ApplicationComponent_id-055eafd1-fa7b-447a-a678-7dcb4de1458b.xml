@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TopoCAD"
+    id="id-055eafd1-fa7b-447a-a678-7dcb4de1458b"
+    documentation="TopoCAD is een op AutoCAD Map/AutoCAD Civil gebaseerde applicatie voor beheer en bijhouding van geodata, die speciaal is ontwikkeld voor de Nederlandse markt. Zo is de applicatie geschikt om te werken volgens verschillende standaard informatiemodellen, zoals BAG en BGT/IMGeo. TopoCAD is modulair opgebouwd en kan, naar behoefte, met specifieke functionaliteit (bijv. vlakvormen of thematiseren) worden uitgebreid. TopoCAD past naadloos in de NedBGT suite van NedGraphics en is een ideale werkomgeving voor het opbouwen en beheren van de Basisregistratie Grootschalige Topografie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="055eafd1-fa7b-447a-a678-7dcb4de1458b"/>
+  <properties
+      key="URL"
+      value="https://www.cadac.com/nedgraphics/producten/topocad/"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

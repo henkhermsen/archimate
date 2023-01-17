@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iBurgerzaken"
+    id="id-2f5a8053-2562-4e3e-916f-68ee509aa4a8"
+    documentation="De iBurgerzaken apps van PinkRoccade Publiekszaken zijn ontwikkeld vanuit de vraag van burgers en bedrijven: digitale dienstverlening, 24x7, vanaf elk gewenst apparaat en elke locatie. Met 159 gemeenten [red. sep 2020] kiezen al voor selfservice voor en door burgers en bedrijven. Dit leidt tot een werkdrukvermindering voor ambtenaren. In de praktijk blijkt dat gebruikers deze apps ervaren als gebruikersvriendelijk én als een verrijking van de gemeentelijke service. Met de juiste sturing worden selfservicepercentages boven de 90% behaald.&#xD;&#xA;&#xD;&#xA;Huidige versie is 3.9. Zie TopDeesk voor de releaseplanning van iBurgerzaken.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="2f5a8053-2562-4e3e-916f-68ee509aa4a8"/>
+  <properties
+      key="URL"
+      value="www.iburgerzaken.nl"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Omschrijving gebruik"/>
+</archimate:ApplicationComponent>

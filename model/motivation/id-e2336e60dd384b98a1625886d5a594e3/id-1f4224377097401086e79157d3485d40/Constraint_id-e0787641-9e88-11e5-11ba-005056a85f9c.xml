@@ -1,0 +1,33 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Peppol en SimplerInvoicing (e-Factureren)"
+    id="id-e0787641-9e88-11e5-11ba-005056a85f9c"
+    documentation="Met Peppol gebruikt u een veilige, betrouwbare en interoperabele infrastructuur om facturen en orders uit te wisselen (verzenden en ontvangen).">
+  <properties
+      key="Toelichting"
+      value="De Nederlandse Peppolautoriteit ziet erop toe dat de toegelaten serviceproviders zich houden aan het Peppol-afsprakenstelsel."/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="GEMMA type"
+      value="Standaard"/>
+  <properties
+      key="Compliancy"
+      value="Zie technische specificaties"/>
+  <properties
+      key="Compliancy URL"
+      value="https://peppolautoriteit.nl"/>
+  <properties
+      key="Beheerder"
+      value="Nederlandse Peppolautoriteit (NPa)"/>
+  <properties
+      key="Afkorting"
+      value="Peppol en facturen"/>
+  <properties
+      key="URL"
+      value="https://peppolautoriteit.nl"/>
+  <properties
+      key="Object ID"
+      value="e0787641-9e88-11e5-11ba-005056a85f9c"/>
+</archimate:Constraint>

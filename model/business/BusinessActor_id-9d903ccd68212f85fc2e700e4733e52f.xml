@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adobe"
+    id="id-9d903ccd68212f85fc2e700e4733e52f"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="9d903ccd68212f85fc2e700e4733e52f"/>
+</archimate:BusinessActor>

@@ -1,0 +1,15 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voldoet aan"
+    id="id-0f42776c4b8f591e71e03835e5c37ed6">
+  <properties
+      key="Object ID"
+      value="0f42776c4b8f591e71e03835e5c37ed6"/>
+  <source
+      xsi:type="archimate:FlowRelationship"
+      href="FlowRelationship_id-560fec9d1d5a744edc5a819bcc18a6ae.xml#id-560fec9d1d5a744edc5a819bcc18a6ae"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-c3865c91-8db0-11e3-67ab-0050568a6153.xml#id-c3865c91-8db0-11e3-67ab-0050568a6153"/>
+</archimate:AssociationRelationship>

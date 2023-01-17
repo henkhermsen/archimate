@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ingenico ePayments"
+    id="id-c3bd1d75fafd0ea99346f1506906457e"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="c3bd1d75fafd0ea99346f1506906457e"/>
+</archimate:BusinessActor>

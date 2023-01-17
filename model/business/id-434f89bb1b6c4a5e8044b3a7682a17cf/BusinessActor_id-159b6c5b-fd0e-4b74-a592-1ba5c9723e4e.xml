@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kodision"
+    id="id-159b6c5b-fd0e-4b74-a592-1ba5c9723e4e">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="159b6c5b-fd0e-4b74-a592-1ba5c9723e4e"/>
+  <properties
+      key="URL"
+      value="https://www.kodision.nl/"/>
+</archimate:BusinessActor>

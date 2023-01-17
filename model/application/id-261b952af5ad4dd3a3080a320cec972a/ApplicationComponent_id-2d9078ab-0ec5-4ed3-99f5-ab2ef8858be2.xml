@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Active Directory"
+    id="id-2d9078ab-0ec5-4ed3-99f5-ab2ef8858be2"
+    documentation="Active Directory is een eigen implementatie door Microsoft van de directoryservice LDAP in combinatie met DNS en Kerberos voor het gebruik in Windows-omgevingen vanaf Windows 2000. Active Directory staat beheerders toe om het beleid in het netwerk van een organisatie te beheren.">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="2d9078ab-0ec5-4ed3-99f5-ab2ef8858be2"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="Active Directory is een eigen implementatie door Microsoft van de directoryservice LDAP in combinatie met DNS en Kerberos voor het gebruik in Windows-omgevingen vanaf Windows 2000. Active Directory staat beheerders toe om het beleid in het netwerk van een organisatie te beheren."/>
+</archimate:ApplicationComponent>

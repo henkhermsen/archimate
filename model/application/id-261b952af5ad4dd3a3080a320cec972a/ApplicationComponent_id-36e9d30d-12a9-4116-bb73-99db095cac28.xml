@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QGIS Open Source"
+    id="id-36e9d30d-12a9-4116-bb73-99db095cac28"
+    documentation="Documentatie pakketversie--->&#xA;Creëer, wijzig, visualiseer, analyseer en publiceer geografische informatie.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="36e9d30d-12a9-4116-bb73-99db095cac28"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="Open Source"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

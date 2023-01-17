@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aquaview"
+    id="id-3e0d168f-8354-422f-ae71-5628540ce03e"
+    documentation="aquaview">
+  <properties
+      key="SWC type"
+      value="Pakket"/>
+  <properties
+      key="Object ID"
+      value="3e0d168f-8354-422f-ae71-5628540ce03e"/>
+  <properties
+      key="URL"/>
+  <properties
+      key="Extern Pakket"
+      value="j"/>
+  <properties
+      key="Omschrijving"
+      value="aquaview"/>
+</archimate:ApplicationComponent>

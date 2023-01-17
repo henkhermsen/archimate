@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lias Software"
+    id="id-9bdb1cfa25ea4eb99f301d4b4ae314e6"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="9bdb1cfa25ea4eb99f301d4b4ae314e6"/>
+</archimate:BusinessActor>

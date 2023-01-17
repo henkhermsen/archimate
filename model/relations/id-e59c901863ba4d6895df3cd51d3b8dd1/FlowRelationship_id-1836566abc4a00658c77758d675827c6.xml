@@ -1,0 +1,45 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="intern (Webservices)"
+    id="id-1836566abc4a00658c77758d675827c6">
+  <properties
+      key="SWC type"
+      value="Koppeling"/>
+  <properties
+      key="SWC subtype"
+      value="Binnengemeentelijk"/>
+  <properties
+      key="Status"
+      value="In productie"/>
+  <properties
+      key="Transportprotocol"
+      value="Webservices"/>
+  <properties
+      key="Type"
+      value="norm"/>
+  <properties
+      key="Documentatie koppeling"
+      value="levering persoons- en adresgegevens"/>
+  <properties
+      key="Intermediair ID"
+      value="e8bf2ce3-c3e0-4f61-bb8e-4550f5ec939c"/>
+  <properties
+      key="Intermediair"
+      value="Enable-U 2Secure 1.1"/>
+  <properties
+      key="Voldoet aan standaardversie ID"
+      value="c31412c1-8db0-11e3-67ab-0050568a6153"/>
+  <properties
+      key="Voldoet aan standaardversie"
+      value="StUF BG 3.10"/>
+  <properties
+      key="Object ID"
+      value="1836566abc4a00658c77758d675827c6"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-327171f1-d604-4551-8fb2-ffaa744fc01e.xml#id-327171f1-d604-4551-8fb2-ffaa744fc01e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-746736a5-ef04-403c-bfc2-2c140a80188b.xml#id-746736a5-ef04-403c-bfc2-2c140a80188b"/>
+</archimate:FlowRelationship>

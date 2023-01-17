@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sigmax"
+    id="id-99412338-f232-4783-bcb6-4165a6f35f8f">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="99412338-f232-4783-bcb6-4165a6f35f8f"/>
+  <properties
+      key="URL"
+      value="https://www.sigmax.nl/"/>
+</archimate:BusinessActor>

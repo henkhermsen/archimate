@@ -1,0 +1,14 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBI4wan"
+    id="id-dc7d572e-7074-4cca-ba52-24960a69d778">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="dc7d572e-7074-4cca-ba52-24960a69d778"/>
+  <properties
+      key="URL"
+      value="https://www.obi4wan.com"/>
+</archimate:BusinessActor>

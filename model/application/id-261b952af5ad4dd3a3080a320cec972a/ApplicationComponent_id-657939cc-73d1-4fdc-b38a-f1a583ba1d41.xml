@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CiVision Makelaar Gegevensmagazijn 2.3.0"
+    id="id-657939cc-73d1-4fdc-b38a-f1a583ba1d41"
+    documentation="Documentatie pakketversie--->&#xA;CiVision Makelaar Gegevensmagazijn is onderdeel van pakket Makelaarsuite. De actuele versienummers zijn daar opgenomen.&#xA;CiVision Makelaar Gegevensmagazijn zorgt ervoor dat de gegevens voor personen, bedrijven en zaken centraal worden bewaard en beschikbaar zijn voor raadplegingen.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="657939cc-73d1-4fdc-b38a-f1a583ba1d41"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="2.3.0"/>
+  <properties
+      key="Gebruik status"
+      value="Gepland"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,23 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JCC-Klantgeleiding 1.14"
+    id="id-0b3b4641-3e27-406b-994f-0c7c1c7d2d58"
+    documentation="Documentatie pakketversie--->&#xA;Uw bezoeker verwacht een professionele en snelle dienstverlening. Naast klantgerichte medewerkers vraagt dit om een gebruiksvriendelijk ingericht systeem voor klantgeleiding. Met ons klantgeleidingssysteem JCC-Klantgeleiding heeft u dit in handen! Via de touchscreenzuil of receptie meldt de bezoeker zich snel binnen en ontvangt een bonnetje met een volgnummer. Via een beeldscherm in de wachtruimte wordt de bezoeker opgeroepen en gelijk verwezen naar de juiste balie of spreekkamer. Ons klantgeleidingssysteem is eenvoudig te koppelen aan ons afsprakensysteem JCC-Afspraken. Zo krijgt u nog meer grip op de bezoekersstroom en kunnen uw medewerkers zich nog beter voorbereiden op het bezoek.&#xA;">
+  <properties
+      key="SWC type"
+      value="Pakketversie"/>
+  <properties
+      key="Object ID"
+      value="0b3b4641-3e27-406b-994f-0c7c1c7d2d58"/>
+  <properties
+      key="Extern Pakket"
+      value="n"/>
+  <properties
+      key="Versieaanduiding"
+      value="1.14"/>
+  <properties
+      key="Omschrijving gebruik"/>
+  <properties
+      key="Gebruik status"
+      value="In productie"/>
+</archimate:ApplicationComponent>

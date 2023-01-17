@@ -1,0 +1,12 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QNH"
+    id="id-ac7537dee256a0386f3e393496db1b4b"
+    documentation="DEZE LEVERANCIER IS TOEGEVOEGD">
+  <properties
+      key="SWC type"
+      value="Leverancier"/>
+  <properties
+      key="Object ID"
+      value="ac7537dee256a0386f3e393496db1b4b"/>
+</archimate:BusinessActor>

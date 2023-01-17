@@ -21,4 +21,7 @@
   <properties
       key="Gebruik status"
       value="In productie"/>
+  <properties
+      key="Beheerder"
+      value="test"/>
 </archimate:ApplicationComponent>
